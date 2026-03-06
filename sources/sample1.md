@@ -16,5 +16,5 @@ Mark the sources already retrieved and researched (if there is an output file al
 - [x] KG 07880 - https://teylers.adlibhosting.com/ais6/Details/museum/10998
 - [x] KT 2001 103 - https://teylers.adlibhosting.com/ais6/Details/museum/34330
 - [x] KT 2001 106 - https://teylers.adlibhosting.com/ais6/Details/museum/34333
-- TMNK 00002 - https://teylers.adlibhosting.com/ais6/Details/museum/7041724
-- TMNK 00009 - https://teylers.adlibhosting.com/ais6/Details/museum/7041731
+- [x] TMNK 00002 - https://teylers.adlibhosting.com/ais6/Details/museum/7041724
+- [x] TMNK 00009 - https://teylers.adlibhosting.com/ais6/Details/museum/7041731
