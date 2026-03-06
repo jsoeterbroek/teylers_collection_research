@@ -13,8 +13,8 @@ Mark the sources already retrieved and researched (if there is an output file al
 - [x] FK 0018 - https://teylers.adlibhosting.com/ais6/Details/museum/4000022
 - [x] FK 0020 - https://teylers.adlibhosting.com/ais6/Details/museum/4000024
 - [x] FK 0022 - https://teylers.adlibhosting.com/ais6/Details/museum/4000026
-- FK 1996.01 - https://teylers.adlibhosting.com/ais6/details/museum/4001454
-- FK 1980 01 - https://teylers.adlibhosting.com/ais6/details/museum/4001326
-- FK 1973.01 - https://teylers.adlibhosting.com/ais6/details/museum/4001296
-- FK 1241 - https://teylers.adlibhosting.com/ais6/details/museum/4001249
-- FK 1159 - https://teylers.adlibhosting.com/ais6/details/museum/4001220
+- [x] FK 1996.01 - https://teylers.adlibhosting.com/ais6/details/museum/4001454
+- [x] FK 1980 01 - https://teylers.adlibhosting.com/ais6/details/museum/4001326
+- [x] FK 1973.01 - https://teylers.adlibhosting.com/ais6/details/museum/4001296
+- [x] FK 1241 - https://teylers.adlibhosting.com/ais6/details/museum/4001249
+- [x] FK 1159 - https://teylers.adlibhosting.com/ais6/details/museum/4001220
