@@ -7,7 +7,7 @@ Mark the sources already retrieved and researched (if there is an output file al
 
 ## Sources
 - [x] TvB G 0771 - https://teylers.adlibhosting.com/ais6/Details/museum/22405
-- KG 01153 - https://teylers.adlibhosting.com/ais6/Details/museum/3246
+- [x] KG 01153 - https://teylers.adlibhosting.com/ais6/Details/museum/3246
 - KG 04733 - https://teylers.adlibhosting.com/ais6/Details/museum/7615
 - FK 0002 - https://teylers.adlibhosting.com/ais6/Details/museum/4000002
 - FK 0007 - https://teylers.adlibhosting.com/ais6/Details/museum/4000007
