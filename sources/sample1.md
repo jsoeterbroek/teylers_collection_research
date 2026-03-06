@@ -11,10 +11,10 @@ Mark the sources already retrieved and researched (if there is an output file al
 - [x] KG 04733 - https://teylers.adlibhosting.com/ais6/Details/museum/7615
 - [x] FK 0002 - https://teylers.adlibhosting.com/ais6/Details/museum/4000002
 - [x] FK 0007 - https://teylers.adlibhosting.com/ais6/Details/museum/4000007
-- FK 0011 - https://teylers.adlibhosting.com/ais6/Details/museum/4000014
-- N 021 - https://teylers.adlibhosting.com/ais6/Details/museum/44
-- KG 07880 - https://teylers.adlibhosting.com/ais6/Details/museum/10998
-- KT 2001 103 - https://teylers.adlibhosting.com/ais6/Details/museum/34330
-- KT 2001 106 - https://teylers.adlibhosting.com/ais6/Details/museum/34333
+- [x] FK 0011 - https://teylers.adlibhosting.com/ais6/Details/museum/4000014
+- [x] N 021 - https://teylers.adlibhosting.com/ais6/Details/museum/44
+- [x] KG 07880 - https://teylers.adlibhosting.com/ais6/Details/museum/10998
+- [x] KT 2001 103 - https://teylers.adlibhosting.com/ais6/Details/museum/34330
+- [x] KT 2001 106 - https://teylers.adlibhosting.com/ais6/Details/museum/34333
 - TMNK 00002 - https://teylers.adlibhosting.com/ais6/Details/museum/7041724
 - TMNK 00009 - https://teylers.adlibhosting.com/ais6/Details/museum/7041731
