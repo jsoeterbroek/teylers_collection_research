@@ -364,7 +364,6 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 
 ## Complete Error Register
 
-### Sample 1: Major Errors (28)
 
 | Object | Error | Teylers says | Should be |
 |--------|-------|-------------|-----------|
@@ -396,11 +395,6 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 | TMNK 00009 | **Series not identified** | not stated | "Judenmedaille" — Prague series, c. 1600–1650 |
 | TMNK 00009 | **Title misleading** | "Marriage... 1452" | Not a marriage medal; dynastic portrait from a series |
 | TMNK 00009 | **Birth year of Eleonora wrong** | 1436 | 1434 |
-
-### Sample 2: Major Errors (20)
-
-| Object | Error | Teylers says | Should be |
-|--------|-------|-------------|-----------|
 | 63 | **Second author absent** | Alexander only | Ammonius Hermiae is second author — book contains two texts |
 | 68 | **Authorship undifferentiated** | "Ammonius" | Modern scholarship: Herennius Philo of Byblos |
 | 394 | **Significance absent** | minimal record | Landmark primary source: official Beresovka mammoth report |
@@ -421,11 +415,6 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 | FK 1241 | **No description** | — | World's first projector: projects microscopic images with sunlight |
 | FK 1159 | **No description; title misleading** | "Electric barometer" | NOT a barometer — demonstrates electroluminescence; precursor to neon lamp |
 | FK 1159 | **No maker** | — | Probably John Cuthbertson, Amsterdam (Van Marum's instrument maker) |
-
-### Sample 3: Major Errors (12)
-
-| Object | Error | Teylers says | Should be |
-|--------|-------|-------------|-----------|
 | F 06928 | **Date strongly wrong** | 165–45 million years ago | ~150 Ma (Late Jurassic, Tithonian) |
 | F 06928 | **Classification outdated** | "oervogel" (primitive bird) | *Ostromia crassipes* since 2017 — NOT a bird |
 | F 08432 | **Date far too broad** | 23–5 million years ago | ~13 Ma (Middle Miocene, Serravallian) |
@@ -438,11 +427,6 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 | 1020 | **Gataker not identified** | not stated | Thomas Gataker (1574–1654); his edition is "the principal authority" on the *Meditations* |
 | FK 0073 | **No description** | title only | Demonstrates brachistochrone and tautochrone — two of the most elegant results in classical mechanics |
 | FK 0073 | **'s Gravesande not mentioned** | not stated | Built to design of 's Gravesande (1688–1742), foremost promoter of Newtonian physics |
-
-### Sample 3 Additions: Major Errors (~26)
-
-| Object | Error | Teylers says | Should be |
-|--------|-------|-------------|-----------|
 | KT 1989 096 | **Wrong objects shown in images 01 and 02** | Images 01–02 | EXIF confirms images show KT 1989 084 and KT 1989 083v |
 | KT 1989 096 | **"Freiheitskmämpfer" is nonsense word** | Freiheitskmämpfer | Freiheitskämpfer (freedom fighter) |
 | KT 1989 096 | **Name misspelled "Smidt"** | Smidt | Schmidt |
@@ -466,11 +450,6 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 | U 004 | **No provenance** | Not stated | Possibly 1790 Odescalchi/Christina of Sweden purchase |
 | U 004 | **No description** | Not stated | Composition, pose, mixed-media technique |
 | U 004 | **Bibliography without citations** | Titles only | Authors, years, publishers, page numbers |
-
-### Topstukken — Books: Major Errors (~13)
-
-| Object | Error | Teylers says | Should be |
-|--------|-------|-------------|-----------|
 | WBW 08140 | **Volume count wrong** | 5 volumes | 4 volumes (standard binding of Havell edition) |
 | WBW 08140 | **Lizars's role misrepresented** | Plates 1–10 by W.H. Lizars only | All 10 retouched and aquatinted by R. Havell Jr.; R. Havell Sr. also omitted |
 | WBW 08140 | **Scientific/cultural significance absent** | Not stated | World's most expensive book; $8.8M Christie's 2002; only copy in Netherlands; ~120 survivors worldwide |
@@ -484,11 +463,6 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 | WBW 15370 | **Illustration technique wrong** | "lith." (lithography) | Stipple engravings printed à la poupée — not lithography |
 | WBW 15370 | **Plate count catastrophically wrong** | 6 plates | 120 plates (20 fascicles × 6); or undisclosed incomplete copy |
 | WBW 15370 | **Publication date truncated** | 1803-1804 | 1803–1805 (complete November 1805) |
-
-### Topstukken — Instruments: Major Errors (~45)
-
-| Object | Error | Teylers says | Should be |
-|--------|-------|-------------|-----------|
 | FK 0181 | **Pifre labeled "inventor"** | uitvinder | Mouchot's assistant; not co-inventor |
 | FK 0181 | **Description = title repeated** | Title verbatim | Physical description of dish, boiler, piston, operation |
 | FK 0181 | **No dimensions** | Not recorded | Dish ~48 cm diameter |
@@ -534,11 +508,6 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 | FK 1790-01 | **No dimensions** | Not recorded | Essential for physical identification |
 | FK 1790-01 | **No provenance** | Not recorded | Acquisition from Wedgwood for Van Marum's 1790 chemistry laboratory |
 | FK 1790-01 | **No bibliography** | Not recorded | Turner & Levere, *Martinus van Marum* Vol. IV (1967) is the definitive source |
-
-### Topstukken — Fossils and Minerals: Major Errors (~38)
-
-| Object | Error | Teylers says | Should be |
-|--------|-------|-------------|-----------|
 | F 07424-01 | **Species spelling wrong** | *hoffmannii* | *hoffmanni* (Schulp et al. 2024, co-authored by Teylers staff) |
 | F 07424-01 | **Description = one word** | "kaak" | Full description of historic significance and anatomy |
 | F 07424-01 | **Provenance absent** | Not given | Drouin 1766, Van Marum 1784, French confiscation attempt 1795 |
@@ -572,11 +541,6 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 | M 12369 | **Materials absent** | absent | Swiss stone pine, plaster, ground quartz, paint |
 | M 12369 | **Scale absent** | absent | 1:15,000 |
 | M 12369 | **Provenance unresolved** | absent | Acquired 1799; purchased by Van Marum (9 guilders) or donated by Govert Lups — needs resolution |
-
-### Topstukken — Coins and Medals: Major Errors (9)
-
-| Object | Error | Teylers says | Should be |
-|--------|-------|-------------|-----------|
 | TMNK 00741 | **Trampled figure misidentified** | Medusa (Charles II) | Discord (Discordia); "Mala Bestia" was an allusion to Charles II, not a portrait |
 | TMNK 00741 | **Diplomatic incident absent** | Not mentioned | Dies ordered destroyed after English diplomatic protest; medal a stated casus belli for 1672 war |
 | TMNK 00741 | **Reverse inscription incomplete** | REDIIT . CONCORDIA . MATER . BREDAE . AO . 1667 | Includes "IUL . 31" date — treaty date of 31 July 1667 is in the exergue |
@@ -586,11 +550,6 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 | TMNK 02269 | **Maker died 21 years before medal was struck** | Nicolaas van Swinderen (1705–1760) | Johan Georg Holtzhey (1726–1808) is maker of related type; or uncertain/anonymous |
 | TMNK 02269 | **Issuing authority incorrect** | Dutch Republic — Holland Province | Staten-Generaal — explicitly named in the medal's own title |
 | TMNK 02269 | **Posthumous nature not stated** | Not mentioned | Bentinck died 24 August 1781 (19 days after battle); medal received posthumously by his family |
-
-### Topstukken — Art: Major Errors (~86)
-
-| Object | Error | Teylers says | Should be |
-|--------|-------|-------------|-----------|
 | A 027 recto | **Provenance chain incomplete** | "Purchased from Odescalchi heirs" | Full chain: Michelangelo → Queen Christina of Sweden → Azzolino → Odescalchi → Lestevenon → Teylers |
 | A 027 recto | **Verso not mentioned** | Not referenced | A 027 verso contains equally significant Creation of Adam figure studies |
 | A 068 | **Painting connection absent** | Not stated | Preparatory study for *The Transfiguration* (Pinacoteca Vaticana, c. 1517–1520) |
