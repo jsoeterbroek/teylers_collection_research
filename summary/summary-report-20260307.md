@@ -83,7 +83,7 @@ Of the **50 "Topstukken"**, **49 have been analyzed** — the complete Art categ
 
 ## Analyzed Objects
 
-### Sample 1: Prints, Drawings, Medals, Coins, Instruments
+### Random sample
 
 | # | Object | Type | Period |
 |---|--------|------|--------|
@@ -100,11 +100,6 @@ Of the **50 "Topstukken"**, **49 have been analyzed** — the complete Art categ
 | 11 | KT 2001 106 — Jan Gerard Waldorp, *Two women* | Drawing | c. 1785–1790 |
 | 12 | TMNK 00002 — Johannes Huss medal | Medal | c. 1700–1740 |
 | 13 | TMNK 00009 — Eleonora / Frederick III medal | Medal | c. 1600–1650 |
-
-### Sample 2: Rare Books and Scientific Instruments
-
-| # | Object | Type | Period |
-|---|--------|------|--------|
 | 14 | 63 — Alexander Aphrodisiensis, *De Fato* | Book | 1658 |
 | 15 | 68 — Ammonius, *De adfinium vocabulorum Differentia* | Book | 1739 |
 | 16 | 394 — O. Herz, Beresovka mammoth expedition report | Book | 1902 |
@@ -120,11 +115,6 @@ Of the **50 "Topstukken"**, **49 have been analyzed** — the complete Art categ
 | 26 | FK 1973.01 — Kistemaker ultracentrifuge model | Instrument | 1957 |
 | 27 | FK 1241 — Solar microscope by J. Mortier | Instrument | 1776 |
 | 28 | FK 1159 — "Electric barometer" (actually electroluminescence demonstrator) | Instrument | 1790 |
-
-### Sample 3: Fossils, Coins, Medals, Books, Instruments
-
-| # | Object | Type | Period |
-|---|--------|------|--------|
 | 29 | F 06928 — *Ostromia crassipes* (formerly "Archaeopteryx") | Fossil | ~150 Ma |
 | 30 | F 08432 — *Homo diluvii testis* (giant salamander) | Fossil | ~13 Ma |
 | 31 | TMNK 00272 — Prince's thaler, Holland 1584 | Coin | 1584 |
@@ -132,20 +122,13 @@ Of the **50 "Topstukken"**, **49 have been analyzed** — the complete Art categ
 | 33 | TMNK 10564 — Gold striking of a quarter guilder | Coin | 1692 |
 | 34 | 1020 — Marcus Aurelius *Meditations* (Gataker edition) | Book | 1697 |
 | 35 | FK 0073 — Cycloidal track, Kampman & Steitz | Instrument | 1750–1774 |
-
-### Sample 3 Additions: Drawings, Paintings, and a Drawing
-
-| # | Object | Type | Period |
-|---|--------|------|--------|
 | 36 | KT 1989 096 — Anon., *Portrait of August Schmidt* | Drawing | 1899 |
 | 37 | KS 013 — Johannes Jelgerhuis, *Interior of the Nieuwe Kerk, Delft* | Painting | 1825 |
 | 38 | KS 052 — Nicolaas Pieneman, *The attack by Juan de Jáuregui on Prince Willem I* | Painting | 1838 |
 | 39 | N 039 — Hendrick Goltzius, *Portrait of Jacques de la Faille* | Drawing | c. 1580 |
 | 40 | U 004 — Rubens after Titian, *Saint Jerome in the Wilderness* | Drawing | c. 1600–1629 |
 
-### Topstukken — Art (21 objects, all analyzed)
-
-Phases 1–3 covered 21 art Topstukken including works by Michelangelo, Raphael, Rembrandt, Rubens, and other masters.
+### Topstukken
 
 | # | Object | Type | Period |
 |---|--------|------|--------|
@@ -170,21 +153,10 @@ Phases 1–3 covered 21 art Topstukken including works by Michelangelo, Raphael,
 | 59 | RDW T 019 — Niki de Saint-Phalle & Jean Tinguely, *Bonne Année* | Mixed media | 1962 |
 | 60 | T 029 — Cornelis Troost, *De Ambassadeur van Labberlotten* | Drawing | c. 1739 |
 | 61 | T 085 — Maria Sibylla Merian, *Drie tulpen* | Drawing | c. 1700–1715 |
-
-### Topstukken — Books (5 objects, all analyzed)
-
-| # | Object | Type | Period |
-|---|--------|------|--------|
 | 62 | WBW 08140 — John James Audubon, *The Birds of America* | Book | 1827–1838 |
 | 63 | 12162 — Reinier & Josua Ottens, *Atlas Major* | Book | c. 1725–1750 |
 | 64 | 12494 — Sydney Parkinson, *A Journal of a Voyage to the South Seas* | Book | 1784 |
 | 65 | WBW 15370 — Ventenat & Redouté, *Jardin de la Malmaison* | Book | 1803–1805 |
-| (previous) | (Diderot & d'Alembert *Encyclopédie* — analyzed in prior phases) | Book | 1751–1772 |
-
-### Topstukken — Instruments (8 of 9 analyzed; FK 0014 pending)
-
-| # | Object | Type | Period |
-|---|--------|------|--------|
 | 66 | FK 0181 — Solar collector with steam piston (after Mouchot) | Instrument | 1879 |
 | 67 | FK 0219 — Gasometer for hydrogen combustion (Van Marum / Fries) | Instrument | 1790–1791 |
 | 68 | FK 0275 — Phonautograph (Koenig / Scott de Martinville) | Instrument | 1865 |
@@ -193,13 +165,6 @@ Phases 1–3 covered 21 art Topstukken including works by Michelangelo, Raphael,
 | 71 | FK 0508 — Large electrostatic generator with Leyden jars (Van Marum / Cuthbertson) | Instrument | 1783–1784 |
 | 72 | FK 0624-01 — First-generation electric lamps in wooden rack | Instrument | 1881–1882 |
 | 73 | FK 1790-01 — Wedgwood Queen's Ware distillation vessels | Instrument | c. 1790 |
-
-### Topstukken — Fossils and Minerals (12 objects, all analyzed)
-
-| # | Object | Type | Period |
-|---|--------|------|--------|
-| 29 | F 06928 — *Ostromia crassipes* ("Archaeopteryx") | Fossil | ~150 Ma |
-| 30 | F 08432 — *Homo diluvii testis* (giant salamander) | Fossil | ~13 Ma |
 | 74 | F 07424-01 — *Mosasaurus hoffmanni* jaw (first mosasaur found) | Fossil | 72–66 Ma |
 | 75 | F 16266 — Woolly mammoth skull, Heukelum | Fossil | ~31,000 BP |
 | 76 | F 16269 — Cave bear skeleton (*Ursus spelaeus*) | Fossil | ~24,000 BP |
@@ -210,18 +175,13 @@ Phases 1–3 covered 21 art Topstukken including works by Michelangelo, Raphael,
 | 81 | M 03353 — Rock from the summit of Mont Blanc (De Saussure, 1787) | Geological | 1787 coll. |
 | 82 | M 11800 — Collection of Haüy crystal models (565 pieces) | Scientific models | 1802–1804 acq. |
 | 83 | M 12369 — Maquette Mont Blanc (Exchaquet, 1787) | Model | 1787 |
-
-### Topstukken — Coins and Medals (3 objects, all analyzed)
-
-| # | Object | Type | Period |
-|---|--------|------|--------|
 | 84 | TMNK 00741 — Peace of Breda medal (Adolphi, 1667) | Medal | 1667 |
 | 85 | TMNK 01297 — VOC Gouden Buys disaster medal (1695) | Medal | 1695 |
 | 86 | TMNK 02269 — Battle of the Doggersbank gold medal (1781) | Medal | 1781 |
 
 ---
 
-## The Topstukken Test
+## The Topstukken (Highlights) Test
 
 Teylers Museum has itself designated **50 objects as "Topstukken"** — the highlights of the collection, presented on its website at [teylersmuseum.nl/nl/ontdek/topstukken](https://teylersmuseum.nl/nl/ontdek/topstukken). These are the objects the museum considers most important: works by Michelangelo, Rembrandt, and Raphael; the large electrostatic machine; the Mosasaurus; the *Ostromia* fossil; Audubon's *Birds of America*.
 
