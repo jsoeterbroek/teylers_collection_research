@@ -6,11 +6,11 @@
 
 # Teylers Museum Online Catalog: Systematic Quality Analysis
 
-**Version:** 20260307
-**Date:** 7 March 2026
-**Researcher:** Joost Soeterbroek, assisted by AI research agent (Claude Opus 4.6, Anthropic)
-**Contact:** Joost Soeterbroek — <joost.soeterbroek@gmail.com> — +31 6 34 83 38 45
-**Repository:** <https://github.com/jsoeterbroek/teylers_collection_research>
+**Version:** 20260307  
+**Date:** 7 March 2026  
+**Researcher:** Joost Soeterbroek, assisted by AI research agent (Claude Opus 4.6, Anthropic)  
+**Contact:** Joost Soeterbroek — <joost.soeterbroek@gmail.com> — +31 6 34 83 38 45  
+**Repository:** <https://github.com/jsoeterbroek/teylers_collection_research>  
 
 ---
 
