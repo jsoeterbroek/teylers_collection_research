@@ -27,14 +27,14 @@ Mark the sources already retrieved and researched (if there is an output file al
 
 ## Boeken (5)
 - [x] 1355 - https://teylers.adlibhosting.com/ais6/details/document/300001354
-- WBW 08140 - https://teylers.adlibhosting.com/ais6/details/document/300008139
-- 12162 - https://teylers.adlibhosting.com/ais6/details/document/300012161
-- 12494 - https://teylers.adlibhosting.com/ais6/details/document/300012493
-- WBW 15370 - https://teylers.adlibhosting.com/ais6/details/document/300015369
+- [x] WBW 08140 - https://teylers.adlibhosting.com/ais6/details/document/300008139
+- [x] 12162 - https://teylers.adlibhosting.com/ais6/details/document/300012161
+- [x] 12494 - https://teylers.adlibhosting.com/ais6/details/document/300012493
+- [x] WBW 15370 - https://teylers.adlibhosting.com/ais6/details/document/300015369
 
 ## Instrumenten (9)
 - FK 0014 - https://teylers.adlibhosting.com/ais6/details/museum/4000017
-- FK 0181 - https://teylers.adlibhosting.com/ais6/details/museum/4000208
+- [x] FK 0181 - https://teylers.adlibhosting.com/ais6/details/museum/4000208
 - FK 0219 - https://teylers.adlibhosting.com/ais6/details/museum/4000250
 - FK 0275 - https://teylers.adlibhosting.com/ais6/details/museum/4000318
 - FK 0310 - https://teylers.adlibhosting.com/ais6/details/museum/4000361
