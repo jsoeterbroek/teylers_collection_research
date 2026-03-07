@@ -92,11 +92,11 @@ None of this information appears in the public catalog record.
 
 The double elephant folio was intentionally published without text — a legal strategy to avoid British copyright library deposit obligations. The textual companion, *Ornithological Biography, or an Account of the Habits of the Birds of the United States of America*, was published separately in five volumes in Edinburgh (1831–1839), co-authored by Audubon and the Scottish ornithologist **William MacGillivray** (1796–1852). The folio and its text companion are inseparable as a work of science, yet the catalog record makes no reference to the *Ornithological Biography*, does not mention MacGillivray's essential contribution, and does not indicate whether Teylers holds this companion work.[^22][^23]
 
-### Finding 10 — MINOR: Scientific and cultural significance is unrecorded
+### Finding 10 — MAJOR: Scientific and cultural significance is unrecorded
 
-The catalog record contains no note contextualising the work's significance. Established facts that would normally appear in a note field for a work of this importance include:
+The catalog record contains no note contextualising the work's significance. *The Birds of America* has been named **the most expensive book in the world** — a fact that makes its complete absence from the catalog record a serious omission. Established facts that would normally appear in a note field for a work of this importance include:
 
-- *The Birds of America* is consistently described as one of the most important works of natural history ever produced, and one of the most valuable printed books in the world. A complete copy sold at Christie's New York in 2002 for **$8.8 million**.[^21]
+- *The Birds of America* is consistently described as one of the most important works of natural history ever produced. A complete copy sold at Christie's New York in 2002 for **$8.8 million**, making it the most expensive printed book ever sold at auction.[^21]
 - The work contains documentary records of birds, some of which are now **extinct** (e.g., the Passenger Pigeon, Carolina Parakeet), making the plates irreplaceable scientific evidence.
 - Audubon pioneered the practice of depicting birds at **life size** and in **dynamic, naturalistic poses** — a radical departure from the stiff, posed conventions of earlier bird illustration.
 - Approximately **200 complete sets** were produced; only approximately **119–120** are known to survive complete today, making Teylers' copy among the rarest objects in any Dutch collection.[^1][^15]
@@ -116,7 +116,7 @@ The catalog record contains no note contextualising the work's significance. Est
 | 7 | **Minor** | Audubon biography (topstukken page) | Self-taught; French origin; departed for America age twenty | Not fully self-taught; born in Haiti (Saint-Domingue), not France; arrived America 1803 at age 18 |
 | 8 | **Minor** | Provenance | Not recorded | Acquired by direct subscription 1827–1838; 2,243 guilders paid; Victor Audubon involved in 1833 transaction; copy used for 1971–72 facsimile edition |
 | 9 | **Minor** | Companion text | Not mentioned | *Ornithological Biography* (5 vols., Edinburgh, 1831–1839) by Audubon and William MacGillivray is the inseparable textual companion |
-| 10 | **Minor** | Cultural/scientific significance | Not recorded | One of the most valuable books ever sold; contains records of now-extinct species; ~120 complete copies survive worldwide; sold for $8.8M in 2002 |
+| 10 | **Major** | Cultural/scientific significance | Not recorded | Named the most expensive book in the world; contains records of now-extinct species; ~120 complete copies survive worldwide; sold for $8.8M at Christie's New York in 2002 |
 
 ---
 
