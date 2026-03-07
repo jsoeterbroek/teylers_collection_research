@@ -3,14 +3,14 @@ Sources
 Mark the sources already retrieved and researched (if there is an output file already, skip) after successful research
 
 ## Kunst (21)
-- A 027 recto - https://teylers.adlibhosting.com/ais6/details/museum/34464
-- A 068 - https://teylers.adlibhosting.com/ais6/details/museum/107
-- KG 00492 - https://teylers.adlibhosting.com/ais6/details/museum/2563
-- KS 135 - https://teylers.adlibhosting.com/ais6/details/museum/21015
-- KS 165 - https://teylers.adlibhosting.com/ais6/details/museum/334
-- KS 223 - https://teylers.adlibhosting.com/ais6/details/museum/17
+- [x] A 027 recto - https://teylers.adlibhosting.com/ais6/details/museum/34464
+- [x] A 068 - https://teylers.adlibhosting.com/ais6/details/museum/107
+- [x] KG 00492 - https://teylers.adlibhosting.com/ais6/details/museum/2563
+- [x] KS 135 - https://teylers.adlibhosting.com/ais6/details/museum/21015
+- [x] KS 165 - https://teylers.adlibhosting.com/ais6/details/museum/334
+- [x] KS 223 - https://teylers.adlibhosting.com/ais6/details/museum/17
 - KS 1987 002 - https://teylers.adlibhosting.com/ais6/details/museum/358
-- KS 2013 001 - https://teylers.adlibhosting.com/ais6/details/museum/39058
+- [x] KS 2013 001 - https://teylers.adlibhosting.com/ais6/details/museum/39058
 - [x] KT 1990 002 - https://teylers.adlibhosting.com/ais6/details/museum/28829
 - KT 2016 092 - https://teylers.adlibhosting.com/ais6/details/museum/40353
 - KT 2020 022 - https://teylers.adlibhosting.com/ais6/details/museum/41053
