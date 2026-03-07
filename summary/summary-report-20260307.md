@@ -65,10 +65,10 @@ Random collection samples plus targeted Topstukken, totaling **84 objects analyz
 | Sample | 35 | Prints, drawings, medals, coins, instruments, sculptures, fossils, books | 60 |
 | Topstukken — Art | 27 | Paintings, drawings, prints (art collection) | ~112 |
 | Topstukken — Books | 4 | Rare books | ~13 |
-| Topstukken — Instruments | 8 (of 9; FK 0014 pending) | Scientific instruments | ~45 |
+| Topstukken — Instruments | 8 | Scientific instruments | ~45 |
 | Topstukken — Fossils & Minerals | 10 | Fossils, minerals, geological specimens | ~38 |
 | Topstukken — Coins & Medals | 3 | Medals, coins | 9 |
-| **TOTAL** | **87 records / 84 objects** | **All major collection areas** | **~279** |
+| **TOTAL** | **84 objects** | **All major collection areas** | **~279** |
 
 Average: **~3.3 major errors per object**. Objects with zero errors: **0**.
 
