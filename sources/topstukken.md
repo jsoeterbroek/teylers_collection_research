@@ -9,24 +9,24 @@ Mark the sources already retrieved and researched (if there is an output file al
 - [x] KS 135 - https://teylers.adlibhosting.com/ais6/details/museum/21015
 - [x] KS 165 - https://teylers.adlibhosting.com/ais6/details/museum/334
 - [x] KS 223 - https://teylers.adlibhosting.com/ais6/details/museum/17
-- KS 1987 002 - https://teylers.adlibhosting.com/ais6/details/museum/358
+- [x] KS 1987 002 - https://teylers.adlibhosting.com/ais6/details/museum/358
 - [x] KS 2013 001 - https://teylers.adlibhosting.com/ais6/details/museum/39058
 - [x] KT 1990 002 - https://teylers.adlibhosting.com/ais6/details/museum/28829
-- KT 2016 092 - https://teylers.adlibhosting.com/ais6/details/museum/40353
-- KT 2020 022 - https://teylers.adlibhosting.com/ais6/details/museum/41053
-- KT 2022 097 - https://teylers.adlibhosting.com/ais6/details/museum/41496
-- KT 2022 190 - https://teylers.adlibhosting.com/ais6/details/museum/41634
-- L 022 - https://teylers.adlibhosting.com/ais6/details/museum/32571
-- N 058 - https://teylers.adlibhosting.com/ais6/details/museum/73
-- O 007 - https://teylers.adlibhosting.com/ais6/details/museum/35531
-- O 047 - https://teylers.adlibhosting.com/ais6/details/museum/36121
-- P 078 - https://teylers.adlibhosting.com/ais6/details/museum/35956
-- RDW T 019 - https://teylers.adlibhosting.com/ais6/details/museum/33234
-- T 029 - https://teylers.adlibhosting.com/ais6/details/museum/33105
-- T 085 - https://teylers.adlibhosting.com/ais6/details/museum/35869
+- [x] KT 2016 092 - https://teylers.adlibhosting.com/ais6/details/museum/40353
+- [x] KT 2020 022 - https://teylers.adlibhosting.com/ais6/details/museum/41053
+- [x] KT 2022 097 - https://teylers.adlibhosting.com/ais6/details/museum/41496
+- [x] KT 2022 190 - https://teylers.adlibhosting.com/ais6/details/museum/41634
+- [x] L 022 - https://teylers.adlibhosting.com/ais6/details/museum/32571
+- [x] N 058 - https://teylers.adlibhosting.com/ais6/details/museum/73
+- [x] O 007 - https://teylers.adlibhosting.com/ais6/details/museum/35531
+- [x] O 047 - https://teylers.adlibhosting.com/ais6/details/museum/36121
+- [x] P 078 - https://teylers.adlibhosting.com/ais6/details/museum/35956
+- [x] RDW T 019 - https://teylers.adlibhosting.com/ais6/details/museum/33234
+- [x] T 029 - https://teylers.adlibhosting.com/ais6/details/museum/33105
+- [x] T 085 - https://teylers.adlibhosting.com/ais6/details/museum/35869
 
 ## Boeken (5)
-- 1355 - https://teylers.adlibhosting.com/ais6/details/document/300001354
+- [x] 1355 - https://teylers.adlibhosting.com/ais6/details/document/300001354
 - WBW 08140 - https://teylers.adlibhosting.com/ais6/details/document/300008139
 - 12162 - https://teylers.adlibhosting.com/ais6/details/document/300012161
 - 12494 - https://teylers.adlibhosting.com/ais6/details/document/300012493
