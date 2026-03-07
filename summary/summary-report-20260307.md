@@ -1,6 +1,6 @@
-![Duinroos Innovatie](https://www.duinroosinnovatie.nl/assets/img/avatar-icon.png)
-
-**Duinroos Innovatie** — [www.duinroosinnovatie.nl](https://www.duinroosinnovatie.nl)
+<p align="center">
+  <img src="teylers-audit-thumbnail.png" />
+</p>
 
 ---
 
@@ -55,6 +55,7 @@ All detailed analysis reports are available in the public GitHub repository:
 <https://github.com/jsoeterbroek/teylers_collection_research>
 
 ---
+
 
 ## Scope
 
