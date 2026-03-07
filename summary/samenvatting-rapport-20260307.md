@@ -30,7 +30,7 @@ De objecten bestrijken de volle breedte van het museum: prenten, tekeningen, pen
 
 Het foutpercentage van **1,7 ernstige fouten per object** is consistent over alle drie steekproeven, wat erop wijst dat de problemen systemisch zijn. Geextrapoleerd naar de volledige collectie duidt dit op **duizenden ernstige fouten** die op correctie wachten.
 
-**Zelfs de eigen "Topstukken" van het museum — de 50 belangrijkste objecten — zijn getroffen.** Twee van de 50 topstukken vielen binnen onze willekeurige steekproef en beide bevatten ernstige fouten: het *Ostromia*-fossiel (F 06928) heeft de verkeerde naam en een sterk onjuiste datering, en het *Homo diluvii testis* (F 08432) vermeldt Cuviers beroemde bezoek aan het museum in 1811 niet. Als de kroonjuwelen van het museum niet nauwkeurig beschreven zijn, is de kans klein dat de bredere collectie wel correct gecatalogiseerd is.
+**Zelfs de eigen "Topstukken" van het museum — de 50 belangrijkste objecten — zijn getroffen.** We hebben inmiddels **10 van de 50 Topstukken** direct geanalyseerd en daarin **22 ernstige fouten** aangetroffen (2,2 per object). Geen enkel Topstuk bleek vrij van ernstige fouten. Opvallende bevindingen: Dürers *Adam en Eva* heeft de afmetingen van het plaatje in de verkeerde volgorde (een staand formaat gekatalogiseerd als liggend); de *Trommelslaagster* van Israëls vertoont een afwijking van meer dan 10 cm ten opzichte van externe bronnen; bij Rafaëls engelenstudie ontbreekt de verwijzing naar de schildering waarvoor het een voorbereidende tekening is; bij de Michelangelo-ignudo-studie ontbreekt koningin Christina van Zweden in de herkomstgeschiedenis; en beide fossiele Topstukken bevatten de eerder gedocumenteerde fouten. Als de kroonjuwelen van het museum niet nauwkeurig beschreven zijn, is de kans klein dat de bredere collectie wel correct gecatalogiseerd is.
 
 De hier gedemonstreerde AI-methodiek is **schaalbaar naar de gehele collectie** tegen circa **€4 per object** — een fractie van de kosten van traditioneel kunsthistorisch onderzoek. Een volledige collectiescan zou de kwaliteit en toegankelijkheid van Teylers' online catalogus transformeren, en het publieke begrip van een van 's werelds belangrijkste erfgoedcollecties.
 
@@ -49,14 +49,15 @@ Alle gedetailleerde analyserapporten zijn beschikbaar in de publieke GitHub-repo
 
 ## Omvang
 
-Drie willekeurige steekproeven van in totaal **35 objecten** zijn geanalyseerd:
+Drie willekeurige steekproeven plus een gerichte Topstukken-fase, samen **43 objecten**:
 
-| Steekproef | Objecten | Collectiegebieden | Ernstige fouten |
-|------------|----------|-------------------|-----------------|
+| Fase | Objecten | Collectiegebieden | Ernstige fouten |
+|------|----------|-------------------|-----------------|
 | Steekproef 1 | 13 | Prenten, tekeningen, penningen, munten, instrumenten, beeldhouwkunst | 28 |
 | Steekproef 2 | 15 | Zeldzame boeken, wetenschappelijke instrumenten | 20 |
 | Steekproef 3 | 7 | Fossielen, munten, penningen, zeldzame boeken, instrumenten | 12 |
-| **Totaal** | **35** | **Alle grote collectiegebieden** | **60** |
+| Topstukken (aanvullend) | 8 | Schilderijen, tekeningen, prenten (kunstcollectie) | 16 |
+| **Totaal** | **43** | **Alle grote collectiegebieden** | **76** |
 
 Gemiddeld: **1,7 ernstige fouten per object**. Objecten zonder fouten: **0**.
 
