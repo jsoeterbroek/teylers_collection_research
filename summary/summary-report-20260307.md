@@ -145,30 +145,54 @@ Of the **50 "Topstukken"**, **49 have been analyzed** — the complete Art categ
 
 ### Topstukken — Art (21 objects, all analyzed)
 
-Phases 1–3 covered 21 art Topstukken including works by Michelangelo, Raphael, Rembrandt, Rubens, and other masters. Details in analysis reports.
+Phases 1–3 covered 21 art Topstukken including works by Michelangelo, Raphael, Rembrandt, Rubens, and other masters.
+
+| # | Object | Type | Period |
+|---|--------|------|--------|
+| 41 | A 027 recto — Michelangelo, *Figuurstudie voor een Ignudo in de Sixtijnse Kapel* | Drawing | c. 1508–1512 |
+| 42 | A 068 — Raphael, *Studie voor twee engelfiguren* | Drawing | c. 1508–1510 |
+| 43 | KG 00492 — Albrecht Dürer, *Adam en Eva* | Engraving | 1504 |
+| 44 | KS 135 — Henriëtte Ronner-Knip, *De pianoles* | Painting | c. 1880s |
+| 45 | KS 165 — Isaac Israëls, *Trommelslaagster* | Painting | c. 1895–1910 |
+| 46 | KS 223 — George Hendrik Breitner, *Kinderen in het duin* | Painting | c. 1890–1905 |
+| 47 | KS 1987 002 — Wybrand Hendriks, *Het Teekencollegie van Haarlem in 1799* | Painting | 1799 |
+| 48 | KS 2013 001 — Jacobus van Looy, *De Tuin* | Painting | c. 1895 |
+| 49 | KT 1990 002 — Marlene Dumas, *Self-portrait (as seen before giving birth)* | Drawing | 1987 |
+| 50 | KT 2016 092 — Andy Warhol, *Zonder titel (Geboeide handen)* | Drawing | c. 1985 |
+| 51 | KT 2020 022 — George Hendrik Breitner, *Adolphe Boutard als Arabier* | Drawing | c. 1884 |
+| 52 | KT 2022 097 — David Jorisz. (attr.), *David vechtend tegen de ondeugden* | Drawing | c. 1510–1540 |
+| 53 | KT 2022 190 — Pauline Rifer de Courcelles (Madame Knip), *Rode paradijsvogel* | Watercolour | c. 1820s |
+| 54 | L 022 — Claude Lorrain, *Tekenaar voor de Grot van Neptunus in Tivoli* | Drawing | c. 1640–1680 |
+| 55 | N 058 — Hendrick Goltzius, *Rechterhand* | Drawing | 1588 |
+| 56 | O 007 — Hendrick Avercamp, *IJsvermaak bij een boerderij* | Painting | c. 1610–1620 |
+| 57 | O 047 — Rembrandt, *Christus en de discipelen in het Hof van Gethsemane* | Drawing | c. 1650–1655 |
+| 58 | P 078 — Adriaen van Ostade, *Interieur van boerenherberg* | Drawing | c. 1673 |
+| 59 | RDW T 019 — Niki de Saint-Phalle & Jean Tinguely, *Bonne Année* | Mixed media | 1962 |
+| 60 | T 029 — Cornelis Troost, *De Ambassadeur van Labberlotten* | Drawing | c. 1739 |
+| 61 | T 085 — Maria Sibylla Merian, *Drie tulpen* | Drawing | c. 1700–1715 |
 
 ### Topstukken — Books (5 objects, all analyzed)
 
 | # | Object | Type | Period |
 |---|--------|------|--------|
-| 56 | WBW 08140 — John James Audubon, *The Birds of America* | Book | 1827–1838 |
-| 57 | 12162 — Reinier & Josua Ottens, *Atlas Major* | Book | c. 1725–1750 |
-| 58 | 12494 — Sydney Parkinson, *A Journal of a Voyage to the South Seas* | Book | 1784 |
-| 59 | WBW 15370 — Ventenat & Redouté, *Jardin de la Malmaison* | Book | 1803–1805 |
+| 62 | WBW 08140 — John James Audubon, *The Birds of America* | Book | 1827–1838 |
+| 63 | 12162 — Reinier & Josua Ottens, *Atlas Major* | Book | c. 1725–1750 |
+| 64 | 12494 — Sydney Parkinson, *A Journal of a Voyage to the South Seas* | Book | 1784 |
+| 65 | WBW 15370 — Ventenat & Redouté, *Jardin de la Malmaison* | Book | 1803–1805 |
 | (previous) | (Diderot & d'Alembert *Encyclopédie* — analyzed in prior phases) | Book | 1751–1772 |
 
 ### Topstukken — Instruments (8 of 9 analyzed; FK 0014 pending)
 
 | # | Object | Type | Period |
 |---|--------|------|--------|
-| 60 | FK 0181 — Solar collector with steam piston (after Mouchot) | Instrument | 1879 |
-| 61 | FK 0219 — Gasometer for hydrogen combustion (Van Marum / Fries) | Instrument | 1790–1791 |
-| 62 | FK 0275 — Phonautograph (Koenig / Scott de Martinville) | Instrument | 1865 |
-| 63 | FK 0310 — Heliostat after Klinkerfues (Meyerstein, Göttingen) | Instrument | 1865 |
-| 64 | FK 0323 — Seven-foot reflecting telescope (William Herschel) | Instrument | 1790 |
-| 65 | FK 0508 — Large electrostatic generator with Leyden jars (Van Marum / Cuthbertson) | Instrument | 1783–1784 |
-| 66 | FK 0624-01 — First-generation electric lamps in wooden rack | Instrument | 1881–1882 |
-| 67 | FK 1790-01 — Wedgwood Queen's Ware distillation vessels | Instrument | c. 1790 |
+| 66 | FK 0181 — Solar collector with steam piston (after Mouchot) | Instrument | 1879 |
+| 67 | FK 0219 — Gasometer for hydrogen combustion (Van Marum / Fries) | Instrument | 1790–1791 |
+| 68 | FK 0275 — Phonautograph (Koenig / Scott de Martinville) | Instrument | 1865 |
+| 69 | FK 0310 — Heliostat after Klinkerfues (Meyerstein, Göttingen) | Instrument | 1865 |
+| 70 | FK 0323 — Seven-foot reflecting telescope (William Herschel) | Instrument | 1790 |
+| 71 | FK 0508 — Large electrostatic generator with Leyden jars (Van Marum / Cuthbertson) | Instrument | 1783–1784 |
+| 72 | FK 0624-01 — First-generation electric lamps in wooden rack | Instrument | 1881–1882 |
+| 73 | FK 1790-01 — Wedgwood Queen's Ware distillation vessels | Instrument | c. 1790 |
 
 ### Topstukken — Fossils and Minerals (12 objects, all analyzed)
 
@@ -176,24 +200,24 @@ Phases 1–3 covered 21 art Topstukken including works by Michelangelo, Raphael,
 |---|--------|------|--------|
 | 29 | F 06928 — *Ostromia crassipes* ("Archaeopteryx") | Fossil | ~150 Ma |
 | 30 | F 08432 — *Homo diluvii testis* (giant salamander) | Fossil | ~13 Ma |
-| 68 | F 07424-01 — *Mosasaurus hoffmanni* jaw (first mosasaur found) | Fossil | 72–66 Ma |
-| 69 | F 16266 — Woolly mammoth skull, Heukelum | Fossil | ~31,000 BP |
-| 70 | F 16269 — Cave bear skeleton (*Ursus spelaeus*) | Fossil | ~24,000 BP |
-| 71 | F 16390 — Beringer Lügensteine (deliberate forgeries, 1725) | Non-fossil | 1725 |
-| 72 | M 00605 — Malachite specimen (Ural Mountains) | Mineral | 18th c. collection |
-| 73 | M 01518 — Rock crystal cluster (Dauphiné, France) | Mineral | c. 1802 acq. |
-| 74 | M 01524 — Stibnite crystal (Ichinokawa Mine, Japan) | Mineral | 19th c. acq. |
-| 75 | M 03353 — Rock from the summit of Mont Blanc (De Saussure, 1787) | Geological | 1787 coll. |
-| 76 | M 11800 — Collection of Haüy crystal models (565 pieces) | Scientific models | 1802–1804 acq. |
-| 77 | M 12369 — Maquette Mont Blanc (Exchaquet, 1787) | Model | 1787 |
+| 74 | F 07424-01 — *Mosasaurus hoffmanni* jaw (first mosasaur found) | Fossil | 72–66 Ma |
+| 75 | F 16266 — Woolly mammoth skull, Heukelum | Fossil | ~31,000 BP |
+| 76 | F 16269 — Cave bear skeleton (*Ursus spelaeus*) | Fossil | ~24,000 BP |
+| 77 | F 16390 — Beringer Lügensteine (deliberate forgeries, 1725) | Non-fossil | 1725 |
+| 78 | M 00605 — Malachite specimen (Ural Mountains) | Mineral | 18th c. collection |
+| 79 | M 01518 — Rock crystal cluster (Dauphiné, France) | Mineral | c. 1802 acq. |
+| 80 | M 01524 — Stibnite crystal (Ichinokawa Mine, Japan) | Mineral | 19th c. acq. |
+| 81 | M 03353 — Rock from the summit of Mont Blanc (De Saussure, 1787) | Geological | 1787 coll. |
+| 82 | M 11800 — Collection of Haüy crystal models (565 pieces) | Scientific models | 1802–1804 acq. |
+| 83 | M 12369 — Maquette Mont Blanc (Exchaquet, 1787) | Model | 1787 |
 
 ### Topstukken — Coins and Medals (3 objects, all analyzed)
 
 | # | Object | Type | Period |
 |---|--------|------|--------|
-| 78 | TMNK 00741 — Peace of Breda medal (Adolphi, 1667) | Medal | 1667 |
-| 79 | TMNK 01297 — VOC Gouden Buys disaster medal (1695) | Medal | 1695 |
-| 80 | TMNK 02269 — Battle of the Doggersbank gold medal (1781) | Medal | 1781 |
+| 84 | TMNK 00741 — Peace of Breda medal (Adolphi, 1667) | Medal | 1667 |
+| 85 | TMNK 01297 — VOC Gouden Buys disaster medal (1695) | Medal | 1695 |
+| 86 | TMNK 02269 — Battle of the Doggersbank gold medal (1781) | Medal | 1781 |
 
 ---
 
@@ -344,76 +368,76 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 
 | Object | Error | Teylers says | Should be |
 |--------|-------|-------------|-----------|
-| PP 0121 | Subject classification wrong | medicus | jurist / magistrate / regent |
-| PP 0121 | Technique wrong | engraving | etching |
-| PP 0121 | Death date discrepancy | 1639 (on print) | 1630 (historical) |
-| TvB G 0771 | Birth year wrong | 1622 | c. 1626 |
-| TvB G 0771 | Technique anachronistic | etching and stipple engraving | etching — "stipple engraving" is anachronistic for 17th century |
-| TvB G 0771 | Maker's role wrong | engraver | etcher |
-| TvB G 0771 | Date too broad | 1642–1678, ca. | c. 1661–1662 |
-| KG 01153 | Technique wrong | etching | engraving |
-| KG 01153 | Technique/role contradictory | engraver + etching | engraver + engraving |
-| KG 01153 | Birth year Dujardin wrong | 1622 | c. 1626 |
-| KG 04733 | Maker's role wrong | engraver | etcher |
-| KG 04733 | Series not identified | not stated | Title page of "Animals" series (8 plates) |
-| FK 0002 | Transcription error | "Egnelse" | "Engelse" |
-| FK 0002 | Transcription error | "Amsgterdamsche" | "Amsterdamsche" |
-| FK 0007 | Material possibly wrong | glass, brass | brass, ivory/bone; glass not visible |
-| FK 0011 | Date wrong | c. 1840 | c. 1835–1837 |
-| FK 0011 | Materials incomplete | glass, brass | mahogany, brass, glass, enamel, ivory |
-| N 021 | Provenance incomplete | Odescalchi heirs, 1790 | Queen Christina of Sweden → Odescalchi (1692) → Teylers (1790) |
-| KG 07880 | Date too broad | c. 1770–1822 | c. 1790–1795 (probably c. 1793) |
-| KG 07880 | Technique incomplete | etching | etching and engraving |
-| KT 2001 103 | Date too broad | c. 1770 – before 1828 | c. 1777–1806 |
-| KT 2001 106 | Date too broad | c. 1770 – before 1828 | c. 1785–1790 |
-| TMNK 00002 | Date catastrophically wrong | 1415 | c. 1700–1740 (1415 is an inscription date, not manufacture) |
-| TMNK 00002 | Maker wrong | Kingdom of Bohemia, unknown | Workshop of Christian Wermuth, Gotha |
-| TMNK 00002 | Place wrong | Bohemia (implied) | Germany (Gotha/Thuringia) |
-| TMNK 00009 | Series not identified | not stated | "Judenmedaille" — Prague series, c. 1600–1650 |
-| TMNK 00009 | Title misleading | "Marriage... 1452" | Not a marriage medal; dynastic portrait from a series |
-| TMNK 00009 | Birth year of Eleonora wrong | 1436 | 1434 |
+| PP 0121 | **Subject classification wrong** | medicus | jurist / magistrate / regent |
+| PP 0121 | **Technique wrong** | engraving | etching |
+| PP 0121 | **Death date discrepancy** | 1639 (on print) | 1630 (historical) |
+| TvB G 0771 | **Birth year wrong** | 1622 | c. 1626 |
+| TvB G 0771 | **Technique anachronistic** | etching and stipple engraving | etching — "stipple engraving" is anachronistic for 17th century |
+| TvB G 0771 | **Maker's role wrong** | engraver | etcher |
+| TvB G 0771 | **Date too broad** | 1642–1678, ca. | c. 1661–1662 |
+| KG 01153 | **Technique wrong** | etching | engraving |
+| KG 01153 | **Technique/role contradictory** | engraver + etching | engraver + engraving |
+| KG 01153 | **Birth year Dujardin wrong** | 1622 | c. 1626 |
+| KG 04733 | **Maker's role wrong** | engraver | etcher |
+| KG 04733 | **Series not identified** | not stated | Title page of "Animals" series (8 plates) |
+| FK 0002 | **Transcription error** | "Egnelse" | "Engelse" |
+| FK 0002 | **Transcription error** | "Amsgterdamsche" | "Amsterdamsche" |
+| FK 0007 | **Material possibly wrong** | glass, brass | brass, ivory/bone; glass not visible |
+| FK 0011 | **Date wrong** | c. 1840 | c. 1835–1837 |
+| FK 0011 | **Materials incomplete** | glass, brass | mahogany, brass, glass, enamel, ivory |
+| N 021 | **Provenance incomplete** | Odescalchi heirs, 1790 | Queen Christina of Sweden → Odescalchi (1692) → Teylers (1790) |
+| KG 07880 | **Date too broad** | c. 1770–1822 | c. 1790–1795 (probably c. 1793) |
+| KG 07880 | **Technique incomplete** | etching | etching and engraving |
+| KT 2001 103 | **Date too broad** | c. 1770 – before 1828 | c. 1777–1806 |
+| KT 2001 106 | **Date too broad** | c. 1770 – before 1828 | c. 1785–1790 |
+| TMNK 00002 | **Date catastrophically wrong** | 1415 | c. 1700–1740 (1415 is an inscription date, not manufacture) |
+| TMNK 00002 | **Maker wrong** | Kingdom of Bohemia, unknown | Workshop of Christian Wermuth, Gotha |
+| TMNK 00002 | **Place wrong** | Bohemia (implied) | Germany (Gotha/Thuringia) |
+| TMNK 00009 | **Series not identified** | not stated | "Judenmedaille" — Prague series, c. 1600–1650 |
+| TMNK 00009 | **Title misleading** | "Marriage... 1452" | Not a marriage medal; dynastic portrait from a series |
+| TMNK 00009 | **Birth year of Eleonora wrong** | 1436 | 1434 |
 
 ### Sample 2: Major Errors (20)
 
 | Object | Error | Teylers says | Should be |
 |--------|-------|-------------|-----------|
-| 63 | Second author absent | Alexander only | Ammonius Hermiae is second author — book contains two texts |
-| 68 | Authorship undifferentiated | "Ammonius" | Modern scholarship: Herennius Philo of Byblos |
-| 394 | Significance absent | minimal record | Landmark primary source: official Beresovka mammoth report |
-| 407 | Significance absent | minimal record | Founding catalogue of Rijksmuseum Boerhaave |
-| 2163 | Author not identified | "G. Cuvier" | Baron Georges Cuvier, founder of comparative anatomy; visited Teylers 1811 |
-| 2163 | Nature of work unexplained | title only | Official report on scientific progress, commissioned by Napoleon |
-| 2163 | Cuvier-Teylers connection absent | not stated | Cuvier identified *Homo diluvii testis* as giant salamander at Teylers |
-| FK 0018 | Makers not contextualized | names only | Kampman workshop; two partnerships over 50 years; part of suite |
-| FK 0018 | Suite not cross-referenced | isolated record | Part of 's Gravesande mechanics suite |
-| FK 0020 | Inconsistent maker name | "Jean Pelletier" | "J.C. Pelletier" (same as FK 0018) — same person |
-| FK 0020 | Death year as "?" | "?" | Probably 1780 (documented engraver Jean C. Pelletier) |
-| FK 0022 | No maker listed | — | Almost certainly Kampman & Pelletier (identical to FK 0018/0020) |
-| FK 0022 | Pedagogical series not recognized | isolated record | Third in pulley → block → tackle series |
-| FK 1980 01 | "(1663)" misleading | in title | 1663 = Gregory's design year, NOT construction date (c. 1745–1791) |
-| FK 1980 01 | Van der Bildt dynasty not identified | "J. v.d. Bildt, Franeker" | 550+ telescopes; curator of Franeker University |
-| FK 1980 01 | Dual-system not stated | not mentioned | Gregorian + Cassegrain modes in one telescope |
-| FK 1973.01 | Kistemaker was Teylers curator | not stated | Explains acquisition; important for institutional history |
-| FK 1241 | No description | — | World's first projector: projects microscopic images with sunlight |
-| FK 1159 | No description; title misleading | "Electric barometer" | NOT a barometer — demonstrates electroluminescence; precursor to neon lamp |
-| FK 1159 | No maker | — | Probably John Cuthbertson, Amsterdam (Van Marum's instrument maker) |
+| 63 | **Second author absent** | Alexander only | Ammonius Hermiae is second author — book contains two texts |
+| 68 | **Authorship undifferentiated** | "Ammonius" | Modern scholarship: Herennius Philo of Byblos |
+| 394 | **Significance absent** | minimal record | Landmark primary source: official Beresovka mammoth report |
+| 407 | **Significance absent** | minimal record | Founding catalogue of Rijksmuseum Boerhaave |
+| 2163 | **Author not identified** | "G. Cuvier" | Baron Georges Cuvier, founder of comparative anatomy; visited Teylers 1811 |
+| 2163 | **Nature of work unexplained** | title only | Official report on scientific progress, commissioned by Napoleon |
+| 2163 | **Cuvier-Teylers connection absent** | not stated | Cuvier identified *Homo diluvii testis* as giant salamander at Teylers |
+| FK 0018 | **Makers not contextualized** | names only | Kampman workshop; two partnerships over 50 years; part of suite |
+| FK 0018 | **Suite not cross-referenced** | isolated record | Part of 's Gravesande mechanics suite |
+| FK 0020 | **Inconsistent maker name** | "Jean Pelletier" | "J.C. Pelletier" (same as FK 0018) — same person |
+| FK 0020 | **Death year as "?"** | "?" | Probably 1780 (documented engraver Jean C. Pelletier) |
+| FK 0022 | **No maker listed** | — | Almost certainly Kampman & Pelletier (identical to FK 0018/0020) |
+| FK 0022 | **Pedagogical series not recognized** | isolated record | Third in pulley → block → tackle series |
+| FK 1980 01 | **"(1663)" misleading** | in title | 1663 = Gregory's design year, NOT construction date (c. 1745–1791) |
+| FK 1980 01 | **Van der Bildt dynasty not identified** | "J. v.d. Bildt, Franeker" | 550+ telescopes; curator of Franeker University |
+| FK 1980 01 | **Dual-system not stated** | not mentioned | Gregorian + Cassegrain modes in one telescope |
+| FK 1973.01 | **Kistemaker was Teylers curator** | not stated | Explains acquisition; important for institutional history |
+| FK 1241 | **No description** | — | World's first projector: projects microscopic images with sunlight |
+| FK 1159 | **No description; title misleading** | "Electric barometer" | NOT a barometer — demonstrates electroluminescence; precursor to neon lamp |
+| FK 1159 | **No maker** | — | Probably John Cuthbertson, Amsterdam (Van Marum's instrument maker) |
 
 ### Sample 3: Major Errors (12)
 
 | Object | Error | Teylers says | Should be |
 |--------|-------|-------------|-----------|
-| F 06928 | Date strongly wrong | 165–45 million years ago | ~150 Ma (Late Jurassic, Tithonian) |
-| F 06928 | Classification outdated | "oervogel" (primitive bird) | *Ostromia crassipes* since 2017 — NOT a bird |
-| F 08432 | Date far too broad | 23–5 million years ago | ~13 Ma (Middle Miocene, Serravallian) |
-| F 08432 | Cuvier's re-identification not described | not stated | Cuvier visited Teylers 1811, exposed forelimbs, proved it was a salamander |
-| TMNK 00272 | Murder context absent | only "1584" | William of Orange assassinated 10 July 1584; possibly posthumous portrait |
-| TMNK 00272 | Coin type not identified | "helmeted reichsthaler" | Should identify as "prinsendaalder" — standard numismatic term |
-| TMNK 00294 | Peat barge story not described | title only | Dutch Trojan Horse: soldiers hidden in peat barge; one of the most famous Dutch military exploits |
-| TMNK 10564 | Extreme rarity not stated | "[gold striking]" only | Possibly unique; comparable pieces auctioned for €180,000–€245,000 |
-| 1020 | "Cornelio Stanhope" probably wrong | "Cornelio Stanhope" | Almost certainly George Stanhope (1660–1728), Dean of Canterbury |
-| 1020 | Gataker not identified | not stated | Thomas Gataker (1574–1654); his edition is "the principal authority" on the *Meditations* |
-| FK 0073 | No description | title only | Demonstrates brachistochrone and tautochrone — two of the most elegant results in classical mechanics |
-| FK 0073 | 's Gravesande not mentioned | not stated | Built to design of 's Gravesande (1688–1742), foremost promoter of Newtonian physics |
+| F 06928 | **Date strongly wrong** | 165–45 million years ago | ~150 Ma (Late Jurassic, Tithonian) |
+| F 06928 | **Classification outdated** | "oervogel" (primitive bird) | *Ostromia crassipes* since 2017 — NOT a bird |
+| F 08432 | **Date far too broad** | 23–5 million years ago | ~13 Ma (Middle Miocene, Serravallian) |
+| F 08432 | **Cuvier's re-identification not described** | not stated | Cuvier visited Teylers 1811, exposed forelimbs, proved it was a salamander |
+| TMNK 00272 | **Murder context absent** | only "1584" | William of Orange assassinated 10 July 1584; possibly posthumous portrait |
+| TMNK 00272 | **Coin type not identified** | "helmeted reichsthaler" | Should identify as "prinsendaalder" — standard numismatic term |
+| TMNK 00294 | **Peat barge story not described** | title only | Dutch Trojan Horse: soldiers hidden in peat barge; one of the most famous Dutch military exploits |
+| TMNK 10564 | **Extreme rarity not stated** | "[gold striking]" only | Possibly unique; comparable pieces auctioned for €180,000–€245,000 |
+| 1020 | **"Cornelio Stanhope" probably wrong** | "Cornelio Stanhope" | Almost certainly George Stanhope (1660–1728), Dean of Canterbury |
+| 1020 | **Gataker not identified** | not stated | Thomas Gataker (1574–1654); his edition is "the principal authority" on the *Meditations* |
+| FK 0073 | **No description** | title only | Demonstrates brachistochrone and tautochrone — two of the most elegant results in classical mechanics |
+| FK 0073 | **'s Gravesande not mentioned** | not stated | Built to design of 's Gravesande (1688–1742), foremost promoter of Newtonian physics |
 
 ### Sample 3 Additions: Major Errors (~26)
 
@@ -563,7 +587,92 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 | TMNK 02269 | **Issuing authority incorrect** | Dutch Republic — Holland Province | Staten-Generaal — explicitly named in the medal's own title |
 | TMNK 02269 | **Posthumous nature not stated** | Not mentioned | Bentinck died 24 August 1781 (19 days after battle); medal received posthumously by his family |
 
-*(The complete error register for Topstukken Art phases 1–3 is available in the previous summary version 20260307 and in the individual analysis reports.)*
+### Topstukken — Art: Major Errors (~86)
+
+| Object | Error | Teylers says | Should be |
+|--------|-------|-------------|-----------|
+| A 027 recto | **Provenance chain incomplete** | "Purchased from Odescalchi heirs" | Full chain: Michelangelo → Queen Christina of Sweden → Azzolino → Odescalchi → Lestevenon → Teylers |
+| A 027 recto | **Verso not mentioned** | Not referenced | A 027 verso contains equally significant Creation of Adam figure studies |
+| A 068 | **Painting connection absent** | Not stated | Preparatory study for *The Transfiguration* (Pinacoteca Vaticana, c. 1517–1520) |
+| A 068 | **"Sassoferrato" unexplained** | Transcribed only | Represents a former misattribution; Sassoferrato was a prolific Raphael copyist |
+| A 068 | **Provenance chain incomplete** | "Purchased from Odescalchi heirs" | Full chain includes Queen Christina of Sweden and Cardinal Azzolino |
+| KG 00492 | **Dimensions in wrong order** | 192 × 247 mm | 247 × 192 mm (height × width); print is portrait format, not landscape |
+| KG 00492 | **Iconographic programme not explained** | Animals listed as bare subjects | Four temperament animals; pre-lapsarian humoral balance; significance of parrot; missing goat |
+| KS 135 | **Acquisition date likely wrong** | "Acquired 1897" | Acquired 2012; creation date c. 1890–1897 |
+| KS 135 | **Pre-2012 provenance absent** | Not listed | Unknown — this gap should be acknowledged explicitly |
+| KS 135 | **Dimensions discrepancy** | 147 × 90 cm | External sources consistently give 156.5 × 75 cm — requires physical verification |
+| KS 165 | **Date lower bound wrong** | c. 1903 | Israëls arrived in Paris in 1904; lower bound should be 1904 or later |
+| KS 165 | **Subject tags wrong** | "Mens, Vrouw" | Children/girls — museum's own text says "twee meisjes" |
+| KS 223 | **Pre-1968 provenance absent** | Not listed | Unknown — 82-year gap should be acknowledged |
+| KS 1987 002 | **Painting reworked after 1807 — presented as unmodified 1799 work** | "Het Teekencollegie in 1799" | Composite; Van der Willigen and Zocher added post-1807; catalog must note this |
+| KS 1987 002 | **Jan David Zocher Jr. not listed among depicted persons** | 6 names listed | Jan David Zocher Jr. (1791–1870) omitted |
+| KS 1987 002 | **Hendriks's role as Teylers curator and Teekencollegie founder absent** | "schilder" only | Kastelein Teylers 1785–1819; founder of Teekencollegie 1796 |
+| KS 1987 002 | **Teekencollegie history absent** | Not described | Successor to Stads Teekenacademie (1772–1795); renamed Kunstmin en Vlijt 1809 |
+| KS 1987 002 | **2023 Waanders catalog not cited** | Not referenced | *Wybrand Hendriks was hier!* (Waanders, 2023, ISBN 9789462622382) |
+| KS 2013 001 | **Garden location misleading** | Implies Haarlem | Rustenburgerstraat, De Pijp, Amsterdam |
+| KS 2013 001 | **Identity of depicted woman unstated** | "kneeling woman wearing a hat" | Van Looy's wife Titia van Gelder |
+| KT 1990 002 | **Artist's stature not indicated** | "Marlene Dumas (1953)" only | One of the most important living painters; $13.6M auction record; first woman in Louvre permanent collection |
+| KT 2016 092 | **Copyright credits wrong organization** | © Pictoright Amsterdam | © The Andy Warhol Foundation for the Visual Arts, Inc. / Licensed by ARS, New York |
+| KT 2016 092 | **Estate discovery context absent** | "bron: documentatie Daniel Blau" only | ~300 drawings discovered 2011 in Warhol estate flat files by Daniel Blau; Teylers hosted 2013 exhibition |
+| KT 2016 092 | **No provenance chain** | Absent | Warhol studio (c. 1953) → Foundation/estate (1987–2011) → discovered by Blau (2011) → Teylers (2016) |
+| KT 2016 092 | **No exhibition history** | Absent | Teylers *From Silverpoint to Silver Screen* (June–Sept 2013) |
+| KT 2016 092 | **No scholarly references** | Absent | Hirmer 2013; Hirmer 2016; no catalogue raisonné coverage |
+| KT 2020 022 | **Object name field misused** | "pen in inkt" | "tekening" |
+| KT 2020 022 | **Credit line cites wrong organization** | VriendenLoterij | BankGiro Loterij (merger completed August 2021, after 2020 acquisition) |
+| KT 2020 022 | **Date field internally contradictory** | "ca. 1883" AND "ongedateerd" | "ca. 1883 (scholarly estimate; no inscribed date)" |
+| KT 2020 022 | **Boutard identity correction not explained** | Bare name, no note | Century-long misidentification as "Abyssinian"; now established as Sumatran-African (Tebing Tinggi, 1839) |
+| KT 2020 022 | **No description** | Absent | Visual content, pose, costume, composition |
+| KT 2020 022 | **No provenance** | Absent | Known/unknown status should be stated |
+| KT 2022 097 | **"Johann Baldung Gruen" — first name wrong** | Johann | Hans (Baldung Grien) |
+| KT 2022 097 | **Birth year wrong for Baldung Grien** | 1473 | c. 1484/85 |
+| KT 2022 097 | **Date fields internally contradictory** | "ca. 1536" AND "ongedateerd" | "1536" inscribed in composition; execution c. 1536–1540 |
+| KT 2022 097 | **First David Jorisz drawing in Dutch public collection not noted** | Absent | Should be stated explicitly |
+| KT 2022 097 | **Biographical/theological context absent** | Bare allegory labels | Bocholt conference 1536; Joris's "third David" theology; prophetic self-portrait |
+| KT 2022 097 | **No provenance before Christie's 2022** | Absent | Pre-2022 provenance chain required |
+| KT 2022 097 | **Credit line may name wrong foundation** | Don Quichote Foundation | La Tribune de l'Art reports Brook Foundation — urgent verification needed |
+| KT 2022 190 | **No provenance** | Absent | Christie's Paris, 22 Nov 2022, lot 1; hammer €80,000 (€100,800 with premium) |
+| KT 2022 190 | **No biographical context** | Bare name and dates | Gold medal Salon 1810; Premier Peintre to Marie-Louise; stepmother of Ronner-Knip |
+| KT 2022 190 | **No art-historical/scientific significance** | Absent | 1811 = peak of career / *Les Pigeons* year; early illustration of recently described species |
+| KT 2022 190 | **No bibliography** | Absent | Temminck & Knip *Les Pigeons*; Desmarest & De Courcelles; RKD entry |
+| L 022 | **Gray wash missing from technique** | "pen in bruin, penseel in bruin, gewassen" | + grijs (gray wash) — confirmed by multiple sources including 2011 exhibition catalog |
+| L 022 | **Verso technique absent** | Not described | Graphite, pen and brown ink, brown wash |
+| L 022 | **Roethlisberger MRD number not cited** | Bibliography listed without MRD number | Specific MRD entry number required for every Claude drawing |
+| L 022 | **2011 Louvre/Teylers exhibition absent** | Not cited | Cover image of Van Tuyll/Plomp 2011; shown at Louvre and Teylers |
+| L 022 | **Queen Christina of Sweden absent from provenance** | "Odescalchi erfgenamen, 1790" only | Full chain: Christina → Azzolino → Odescalchi → Lestevenon → Teylers |
+| L 022 | **Depicted site not identified** | "rotswand met grot" | Grotto of Neptune, Tivoli (now Parco Villa Gregoriana) |
+| N 058 | **No description** | Absent | Childhood burn injury (Van Mander); penwerk genre; indirect self-portrait; Italian journey |
+| N 058 | **"Self-portrait" missing from subjects** | "hand" only | Should include "zelfportret/self-portrait", "rechterhand artist" |
+| N 058 | **No provenance** | Absent | 1790 Odescalchi purchase (Queen Christina provenance) — confirm if applicable |
+| N 058 | **No exhibition history** | Absent | At minimum: Met/Toledo 2003 Goltzius retrospective |
+| N 058 | **Object name field misused** | "penseel in waterverf" | "tekening" |
+| O 007 | **Pen medium almost certainly wrong** | "pen in zwart" | Should be brown or grey (iron-gall ink); "zwart" is anomalous across entire Avercamp corpus |
+| O 007 | **Date lower bound unjustified** | "ca 1605" | Avercamp in training in 1605; earliest datable paintings c. 1608–1609; comparanda suggest c. 1615–1630 |
+| O 007 | **Welcker catalogue raisonné absent** | Scholten 1904; Plomp 1997 (no entry numbers) | Welcker 1933/1979 — standard reference for all Avercamp works, with entry number |
+| O 007 | **No provenance** | Absent | Price inscriptions suggest 3-stage sales history; should be researched and documented |
+| O 047 | **Title missing Gethsemane location** | "Christus en de discipelen" | "Christus en de discipelen in het Hof van Gethsemane" — omission makes subject ambiguous |
+| O 047 | **Benesch 89 absent from bibliography** | Not cited | Benesch 1973, no. 89 — universal scholarly identifier |
+| O 047 | **No provenance in database** | Absent | Acquired at auction 1796 for 60 guilders; pre-1796 unknown |
+| O 047 | **No exhibition history** | Absent | Louvre/Philadelphia/Detroit 2011; Teylers 2013 |
+| O 047 | **No description of the scene** | Absent | Ten disciples in circle around Christ; sleeping figures; excised strip; significance |
+| P 078 | **Death year wrong** | 1684 | 1685 (died 27 April 1685, buried 2 May 1685, St. Bavo's Haarlem) |
+| P 078 | **Irrelevant bibliography entry attached** | "aquarel: Nederlandse meesters van de negentiende eeuw" | Database linking error — 2015 exhibition of 19th-century watercolors has no relevance; must be removed |
+| P 078 | **Schnackenburg catalogue raisonné absent** | Not cited | Schnackenburg, *Zeichnungen und Aquarelle*, 2 vols., Hamburg 1981 — standard reference |
+| P 078 | **No provenance** | Absent | Unknown; acquisition date and source not documented |
+| RDW T 019 | **Recipient name misspelled** | "Eddy de Wilde" | "Edy de Wilde" (Eduard Leon Louis de Wilde, 1919–2005) |
+| RDW T 019 | **No biographical context for creators** | Bare names and dates | Nouveau Réalisme founders; Tirs; Nanas; Le Cyclop |
+| RDW T 019 | **No context for recipient or donating foundation** | Bare credit line | Edy de Wilde = Stedelijk director 1963–1985; Reinhold collection donated 1998 |
+| RDW T 019 | **Nouveau Réalisme not mentioned** | Absent | Both artists were founding members (Tinguely 1960; Saint-Phalle 1961) |
+| RDW T 019 | **Stedelijk Museum connection absent** | Absent | Saint-Phalle 1967 Nanas; Tinguely 1961 Bewogen Beweging / 1962 Dylaby |
+| RDW T 019 | **No bibliography** | Absent | Hultén 1992; Tinguely catalogs; Nouveau Réalisme primary sources |
+| T 029 | **Artist birth year wrong** | 1697 | 1696 (confirmed by Niemeijer catalogue raisonné and all authorities) |
+| T 029 | **Date range factually impossible** | circa 1717 – voor 1750 | 1742 (Niemeijer 890T; subject matter existed only from 1739) |
+| T 029 | **Technique misclassified** | penseel in waterverf | Gouache (opaque); support is blue paper; Teylers' own public page says "gouache" |
+| T 029 | **Verso inscription absent** | Not listed | "Vertooning van den Ambassadeur van Maroccen in den hout" |
+| T 029 | **Niemeijer catalogue raisonné absent** | 1904 Scholten only | Niemeijer 1973, cat. no. 890T — standard reference for all Troost works |
+| T 029 | **No provenance** | Absent | Acquired 1780 for 100 guilders; pre-1780 unknown; Ploos van Amstel context |
+| T 085 | **Father's nationality wrong** | "de Duitse graveur-uitgever" (German) | Swiss — born Basel; consistently identified as Swiss in all scholarly sources |
+| T 085 | **Creator role understated** | tekenaar (draughtsman only) | Naturalist, entomologist, scientific illustrator, printmaker, painter |
+| T 085 | **"First time insects in all life stages" claim wrong** | Implies *Metamorphosis* (1705) was first | *Der Raupen wunderbare Verwandlung* (1679) already did this; *Metamorphosis* was first for tropical/Surinamese species |
 
 ---
 
