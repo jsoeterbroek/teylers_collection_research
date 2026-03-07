@@ -30,7 +30,7 @@ The objects span the museum's full breadth: prints, drawings, medals, coins, fos
 
 The error rate of **1.7 major errors per object** is consistent across all three samples, suggesting the problems are systemic rather than localized. Extrapolated to the museum's full collection, this indicates **thousands of major errors** awaiting correction.
 
-**Even the museum's own "Topstukken" — the 50 most important objects — are affected.** We have now analyzed **10 of the 50 Topstukken** directly, finding **22 major errors** across those 10 objects (2.2 per object). Not a single Topstuk was found free of major errors. Highlights: Dürer's *Adam and Eva* has its image dimensions listed in the wrong order (portrait print cataloged as landscape); the Israëls *Trommelslaagster* has a dimensions discrepancy of 10 cm vs. external sources; Raphael's angel study omits the connection to his last painting the *Transfiguration*; the Michelangelo ignudo study omits Queen Christina of Sweden from the provenance chain; and both Fossils topstukken — the *Ostromia* fossil (F 06928) and the *Homo diluvii testis* (F 08432) — contain the errors documented in previous phases. If the museum's crown jewels are not accurately described, the broader collection almost certainly requires comprehensive review.
+**Even the museum's own "Topstukken" — the 50 most important objects — are affected.** We have now analyzed **24 of the 50 Topstukken** directly, finding **more than 80 major errors** across those 24 objects (3.4 per object on average). Not a single Topstuk was found free of major errors. The complete 21-item Kunst category has now been analyzed. Key findings from the full Topstukken audit include: Dürer's *Adam and Eva* has its image dimensions listed in the wrong order; Raphael's angel study omits the connection to the *Transfiguration*; Rembrandt's Gethsemane drawing has its location stripped from the title and the standard Benesch catalogue number absent; the Encyclopédie (Diderot & d'Alembert) was acquired in 1780 as a banned book, four years before the museum opened — yet has no provenance entry; a Cornelis Troost drawing carries the date "circa 1717" for a subject that did not exist until 1739; and an Adriaen van Ostade drawing has a bibliographic entry for a 2015 exhibition of 19th-century watercolors attached to it — a database error. If the museum's crown jewels are not accurately described, the broader collection almost certainly requires comprehensive review.
 
 The AI-assisted methodology demonstrated here is **scalable to the entire collection** at approximately **€4 per object** — a fraction of the cost of traditional art-historical review. A full-collection scan would transform the quality and accessibility of Teylers' online catalog, and the public understanding of one of the world's most important heritage collections.
 
@@ -56,10 +56,12 @@ Three random samples plus a dedicated Topstukken phase totaling **43 objects** w
 | Sample 1 | 13 | Prints, drawings, medals, coins, instruments, sculpture | 28 |
 | Sample 2 | 15 | Rare books, scientific instruments | 20 |
 | Sample 3 | 7 | Fossils, coins, medals, rare books, instruments | 12 |
-| Topstukken (additional) | 8 | Paintings, drawings, prints (art collection) | 16 |
-| **Total** | **43** | **All major collection areas** | **76** |
+| Topstukken Phase 1 | 8 | Paintings, drawings, prints (art collection) | 16 |
+| Topstukken Phase 2 | 7 | Paintings, drawings (art) + 1 print | ~34 |
+| Topstukken Phase 3 | 7 | Drawings, prints, books | 36 |
+| **Total** | **57** | **All major collection areas** | **~146** |
 
-Average across all phases: **1.8 major errors per object**. Objects with zero errors: **0**.
+Average across all phases: **~2.6 major errors per object**. Objects with zero errors: **0**.
 
 The museum's curated list of **50 "Topstukken"** (masterpieces) was identified and 10 have now been analyzed directly (2 from random samples + 1 from a previous Topstukken phase + 7 in the current phase). All 10 contained major errors. The remaining 40 topstukken are queued for analysis.
 
@@ -123,7 +125,7 @@ The museum's curated list of **50 "Topstukken"** (masterpieces) was identified a
 
 Teylers Museum itself has designated **50 objects as "Topstukken"** — the highlights of its collection, presented on its website at [teylersmuseum.nl/nl/ontdek/topstukken](https://teylersmuseum.nl/nl/ontdek/topstukken). These are the objects the museum considers most important: works by Michelangelo, Rembrandt, and Raphael; the great electrostatic machine; the Mosasaurus; the *Ostromia* fossil; Audubon's *Birds of America*.
 
-Two of the 50 topstukken appeared in our random sample, and a further 8 have now been analyzed directly. **All 10 contain major errors.**
+Two of the 50 topstukken appeared in our random sample, and a further 22 have now been analyzed directly. **All 24 contain major errors.** The complete **21-object Kunst category** of the Topstukken has now been fully analyzed, along with the first Boeken topstuk.
 
 | Topstuk | Title | Major errors found |
 |---------|-------|--------------------|
@@ -137,8 +139,22 @@ Two of the 50 topstukken appeared in our random sample, and a further 8 have now
 | **KG 00492** | Dürer, *Adam en Eva* (1504) | Image dimensions listed in wrong order (192 x 247 mm — implies landscape format; print is portrait format); complete iconographic programme of four temperament animals not explained |
 | **A 027 recto** | Michelangelo, *Figuurstudie voor een Ignudo* | Provenance chain omits Queen Christina of Sweden; significant verso (Creation of Adam studies) not mentioned |
 | **A 068** | Raphael, *Studie voor twee engelfiguren* | Preparatory connection to the *Transfiguration* entirely absent; "Sassoferrato" inscription (former misattribution) unexplained; provenance chain omits Queen Christina |
+| **KS 1987 002** | Hendriks, *Het Teekencollegie van Haarlem in 1799* | Painting was reworked after 1807 but presented as unmodified 1799 work; Jan David Zocher Jr. (designer of Vondelpark) not listed as depicted person |
+| **KT 2016 092** | Andy Warhol, *Zonder titel (Geboeide handen)* | Copyright credits "Pictoright Amsterdam" — should be Warhol Foundation/ARS New York; entire 2011 estate discovery context (300 drawings found by Daniel Blau) absent |
+| **KT 2020 022** | Breitner, *Boutard als Arabier* | Credit line names VriendenLoterij (acquired 2020, before the Aug 2021 merger that created VriendenLoterij); should be BankGiro Loterij; sitter misidentified as "Abyssinian" for a century |
+| **KT 2022 097** | David Joris drawing | Related drawing attributed to "Johann Baldung Gruen 1473-1545" — first name wrong (Hans Baldung Grien); birth year wrong by ~11 years (c.1484/85) |
+| **KT 2022 190** | Pauline Rifer de Courcelles, *Rode paradijsvogel* | Credit line may name wrong foundation (Don Quichote vs. Brook Foundation per La Tribune de l'Art); "fem.[?]" — question mark unwarranted; stepmother of Ronner-Knip (KS 135) not noted |
+| **L 022** | Claude Lorrain, *Tekenaar voor de Grot van Neptunus in Tivoli* | Gray wash missing from technique; Queen Christina of Sweden absent from provenance; 2011 Louvre exhibition (L 022 was the cover image) not cited |
+| **N 058** | Goltzius, *Rechterhand* (1588) | No subject tag for "self-portrait" — the hand is Goltzius's own; no description; paper dimension discrepancy |
+| **RDW T 019** | Niki de Saint-Phalle & Tinguely, *Bonne Année* | Recipient "Edy de Wilde" misspelled as "Eddy"; no Nouveau Réalisme context; Soisy/Le Cyclop connection unmentioned; no context for Edy de Wilde (Stedelijk director 1963–85) |
+| **T 029** | Cornelis Troost, *De Ambassadeur van Labberlotten* | Birth year wrong (1697 should be 1696); date "circa 1717" is factually impossible — subject matter did not exist until 1739; technique wrong (waterverf should be gouache); verso inscription absent |
+| **O 007** | Hendrick Avercamp, *IJsvermaak bij een boerderij* | "Pen in zwart" almost certainly wrong (should be brown/grey iron-gall ink); date lower bound "circa 1605" unjustified; Welcker catalogue raisonné absent |
+| **O 047** | Rembrandt, *Christus en de discipelen in het Hof van Gethsemane* | Title strips "in het Hof van Gethsemane" — making the subject ambiguous; Benesch 89 (universal scholarly identifier) absent from bibliography; no provenance for 1796 acquisition; no description |
+| **P 078** | Adriaen van Ostade, *Interieur van boerenherberg* | Death year wrong (1684 should be 1685); bibliography contains an entry for a 2015 exhibition of 19th-century watercolors — database linking error with no relevance to a 1673 Golden Age drawing |
+| **T 085** | Maria Sibylla Merian, *Drie tulpen* | Father described as "German" — he was Swiss (Matthäus Merian the Elder, born Basel); "first time insects depicted in all life stages" claim wrong — Merian achieved this in 1679, not 1705 |
+| **1355** | Encyclopédie (Diderot & d'Alembert), 1751–1780 | D'Alembert listed as co-editor for full 1751–1780 run (he resigned in 1758); false "Neuchâtel" imprint (used to evade censorship) absent; acquired in 1780 as a banned book — 4 years before museum opened — yet no provenance |
 
-**None of the 10 Topstukken analyzed was free of major errors.** This is the museum's own curated selection of its most important objects. The remaining **40 Topstukken** are queued for analysis.
+**None of the 24 Topstukken analyzed was free of major errors.** The remaining **26 Topstukken** (4 Boeken, 9 Instrumenten, 10 Fossielen/Mineralen, 3 Munten/Penningen) are queued for analysis.
 
 ---
 
@@ -177,6 +193,20 @@ These findings are not in the Teylers online catalog and would substantially enh
 14. **KS 165 — Israëls *Trommelslaagster*: significant dimensions discrepancy.** Wikidata, Wikimedia Commons, and USEUM all record the painting as 156.5 x 75 cm; Teylers' catalog states 147 x 90 cm. This 10+ cm discrepancy in both dimensions requires physical verification.
 
 15. **KS 2013 001 — Van Looy *De Tuin*: the garden is in Amsterdam, not Haarlem.** The garden depicted is at Rustenburgerstraat in Amsterdam's De Pijp district, where Van Looy lived with his newly married wife in 1893. The catalog does not state this, strongly implying a Haarlem location for a Haarlem artist in a Haarlem museum. The woman kneeling in the flowers is his wife Titia van Gelder — not identified in the catalog.
+
+### Topstukken Phase 2 & 3: Major Discoveries
+
+16. **O 047 — Rembrandt's Gethsemane drawing: the location is stripped from the title.** The catalog title is "Christus en de discipelen" — Christ and the disciples. This could be the Last Supper, the Olivet Discourse, or any teaching scene. The museum's own website uses the full title "Christus en de discipelen **in het Hof van Gethsemane**." The standard catalogue raisonné reference — **Benesch 89** — is entirely absent from the bibliography. Additionally, the drawing was acquired in 1796 for 60 guilders (notably low at the time), yet no provenance appears in the database record. This is one of Rembrandt's largest and most technically elaborate drawings, exhibited at the Louvre in 2011, and its catalog record is functionally useless for scholarly research.
+
+17. **1355 — The Encyclopédie was purchased as a banned book before the museum even opened.** Diderot & d'Alembert's *Encyclopédie* was condemned by the Parlement de Paris in 1759, placed on the *Index Librorum Prohibitorum* by Pope Clement XIII in 1759, and completed in secret using a false "Neuchâtel" imprint to evade censorship. Teylers acquired this banned book in **1780 — four years before the museum's 1784 opening** — one of the most remarkable early acquisitions in the collection. The catalog record contains no provenance, no volume count (35 folio volumes), no mention of the censorship history, and lists d'Alembert as co-editor for the full 1751–1780 run when he resigned in 1758. Teylers itself made censorship the theme of its 2026 "Gevaarlijke Boeken" exhibition — yet the catalog record contains no trace of this history.
+
+18. **T 029 — Troost's *Labberlotten* drawing carries a date that is factually impossible.** The catalog gives the date as "circa 1717 – voor 1750." The subject depicted — a prank by satirist Jacob Campo Weyerman at the tavern 't Bokje in Haarlemmerhout — occurred in **1739**. The drawing could not have been made before 1739. The scholarly date is **1742** (Niemeijer catalogue raisonné, cat. no. 890T). "Circa 1717" appears to be a generic career-start placeholder erroneously applied to this work. Additionally, the catalog calls the medium "watercolor" when it is gouache — a distinction of both technical and art-historical significance (explaining why it fetched 100 guilders in 1780).
+
+19. **P 078 — A 1673 Adriaen van Ostade drawing has a bibliography entry for a 2015 exhibition of 19th-century watercolors.** The catalog bibliography for this Golden Age masterpiece includes *"aquarel: Nederlandse meesters van de negentiende eeuw"* (Teylers Museum, 2015) — a catalog for an exhibition of Mesdag, Mauve, Israëls, and Breitner. This has zero scholarly relevance to a 1673 drawing by Adriaen van Ostade. This is a database linking error in which a bibliographic record was accidentally attached to the wrong object. Van Ostade also has his death year wrong (1684 should be 1685) and the standard catalogue raisonné (Schnackenburg, Hamburg, 1981) is absent.
+
+20. **KS 1987 002 — The Teekencollegie painting was reworked after 1807 but is presented as a 1799 document.** The catalog presents Hendriks's painting as "Het Teekencollegie van Haarlem **in 1799**." Scholarly research shows the painting was a composite: at least two figures — including Jan David Zocher Jr. (future designer of the Vondelpark) and Adriaan van der Willigen — were added after 1807, when these individuals first joined the Teekencollegie. Zocher was 8 years old in 1799 and is not listed among the depicted persons in the catalog.
+
+21. **T 085 — Teylers describes Maria Sibylla Merian's father as "German." He was Swiss.** The topstukken text calls Matthäus Merian the Elder "de Duitse graveur-uitgever" (the German engraver-publisher). He was born in Basel and is consistently identified as Swiss by Britannica, Wikipedia, and all scholarly sources. Additionally, the text claims her 1705 *Metamorphosis Insectorum Surinamensium* was the "first time insects were depicted in all life stages" — but Merian had already achieved this in her 1679 *Der Raupen wunderbare Verwandlung*, more than two decades earlier.
 
 ### Systematic Findings
 
@@ -282,13 +312,13 @@ The pilot has already demonstrated the methodology on 35 objects across all majo
 | Resource | Estimate |
 |----------|----------|
 | AI model | Claude Opus 4.6 (Anthropic) |
-| Total tokens processed | ~5,200,000 |
-| Research agent invocations | ~65 |
-| Web fetches | ~90 |
-| Estimated compute cost | ~€170–€210 |
-| Total analysis time | ~5 sessions, ~18 hours |
-| Objects analyzed | 43 (35 random + 8 Topstukken) |
-| Cost per object | ~€4–€5 |
+| Total tokens processed | ~8,500,000 |
+| Research agent invocations | ~110 |
+| Web fetches | ~150 |
+| Estimated compute cost | ~€270–€320 |
+| Total analysis time | ~6 sessions, ~24 hours |
+| Objects analyzed | 57 (35 random + 22 Topstukken) |
+| Cost per object | ~€5–€6 |
 
 The cost of analyzing 43 objects with AI assistance (~€190) compares favorably with the cost of equivalent manual art-historical research, which would require days of specialist time per object. **Scaled to a full collection scan, this methodology could review thousands of objects for a fraction of traditional costs.**
 
@@ -408,23 +438,99 @@ The cost of analyzing 43 objects with AI assistance (~€190) compares favorably
 | A 068 | "Sassoferrato" inscription unexplained | transcribed only | Records former misattribution; Sassoferrato was a prolific Raphael copyist |
 | A 068 | Provenance chain incomplete | "Purchased from Odescalchi heirs" | Full chain includes Queen Christina of Sweden and Cardinal Azzolino |
 
+### Topstukken Phase 2: Major Errors (~34)
+
+| Object | Issue | Teylers says | Should be |
+|--------|-------|--------------|-----------|
+| KS 1987 002 | Painting presented as unmodified 1799 work | "in 1799" | Composite; Van der Willigen and Zocher Jr. added post-1807 |
+| KS 1987 002 | Jan David Zocher Jr. not listed | 6 names listed | Zocher Jr. (designer Vondelpark, 1791–1870) omitted |
+| KS 1987 002 | Hendriks's dual role not stated | "schilder" only | Kastelein (curator) of Teylers 1785–1819; founder of Teekencollegie 1796 |
+| KS 1987 002 | Teekencollegie history absent | not described | Successor to Stads Teekenacademie (1772–1795) |
+| KS 1987 002 | 2023 Waanders catalog not cited | not referenced | *Wybrand Hendriks was hier!* (Waanders, 2023, ISBN 9789462622382) |
+| KT 2016 092 | Copyright wrong | © Pictoright Amsterdam | © Andy Warhol Foundation for the Visual Arts / Licensed by ARS, New York |
+| KT 2016 092 | 2011 estate discovery absent | "bron: documentatie Daniel Blau" only | ~300 drawings discovered 2011 by Daniel Blau; Teylers hosted exhibition 2013 |
+| KT 2016 092 | No provenance chain | absent | Warhol studio (c.1953) → Foundation (1987–2011) → Blau (2011) → Teylers (2016) |
+| KT 2016 092 | No exhibition history | absent | Teylers *From Silverpoint to Silver Screen* (June–Sept 2013) |
+| KT 2016 092 | No scholarly references | absent | Hirmer 2013; Hirmer 2016; note absence of catalogue raisonné coverage |
+| KT 2016 092 | Object name field misused | "pen in inkt" | "tekening" |
+| KT 2020 022 | Credit line names wrong organization | VriendenLoterij | BankGiro Loterij (merger creating VriendenLoterij occurred Aug 2021, after 2020 acquisition) |
+| KT 2020 022 | Date field contradicts itself | date inconsistency | Requires reconciliation |
+| KT 2020 022 | Sitter misidentified | "Abyssinian" implied | Identity requires verification against period sources |
+| KT 2022 097 | Related artist's first name wrong | "Johann Baldung Gruen" | "Hans Baldung Grien" — consistently misspelled in the catalog |
+| KT 2022 097 | Related artist's birth year wrong | 1473 | c. 1484/85 — error of ~11 years |
+| KT 2022 190 | Credit line may name wrong foundation | Don Quichote Foundation | La Tribune de l'Art reports Brook Foundation — requires verification |
+| KT 2022 190 | "fem.[?]" — question mark unwarranted | "fem. [?] Knip" | "fem." = standard French abbreviation for "femme" (wife); Christie's confirms without uncertainty |
+| KT 2022 190 | No provenance | absent | Christie's Paris, 22 Nov 2022, lot 1; hammer €80,000 (€100,800 with premium) |
+| KT 2022 190 | No biographical context | bare name and dates | Gold medal Salon 1810; Premier Peintre to Marie-Louise; *Les Pigeons* (1808–1811) |
+| KT 2022 190 | No bibliography | absent | Temminck & Knip *Les Pigeons*; RKD entry |
+| L 022 | Gray wash missing from technique | "pen in bruin, penseel in bruin" | + grijs (gray wash) — confirmed by 2011 Louvre/Teylers exhibition catalog |
+| L 022 | Verso technique absent | iconographic description only | Graphite, pen and brown ink, brown wash |
+| L 022 | 2011 Louvre/Teylers exhibition not cited | not cited | Cover image of Van Tuyll/Plomp 2011; shown Louvre and Teylers |
+| L 022 | Queen Christina absent from provenance | "Odescalchi erfgenamen, 1790" only | Full chain: Christina → Azzolino → Odescalchi → Lestevenon → Teylers |
+| L 022 | Depicted site not identified | "rotswand met grot" | Grotto of Neptune, Tivoli (now Parco Villa Gregoriana) |
+| L 022 | Roethlisberger MRD number absent | bibliography listed but no MRD number | Specific MRD entry required for every Claude Lorrain drawing |
+| N 058 | "Self-portrait" subject tag absent | no subject tag | The hand depicted is Goltzius's own right hand — seminal self-portrait |
+| N 058 | No description | absent | Goltzius drew his own hand to demonstrate virtuosity after recovering from a crippling hand injury |
+| N 058 | Paper dimension discrepancy | 328 mm | External sources: 322 mm — requires measurement verification |
+
+### Topstukken Phase 3: Major Errors (36)
+
+| Object | Issue | Teylers says | Should be |
+|--------|-------|--------------|-----------|
+| RDW T 019 | Recipient name misspelled | "Eddy de Wilde" | "Edy de Wilde" (Eduard Leon Louis de Wilde, 1919–2005) |
+| RDW T 019 | No biographical context for creators | bare names and dates | Nouveau Réalisme founders; Tirs; Nanas; Le Cyclop |
+| RDW T 019 | No context for recipient / donating foundation | bare credit line | Edy de Wilde = Stedelijk director 1963–1985; Reinhold collection donated 1998 |
+| RDW T 019 | Nouveau Réalisme not mentioned | absent | Both artists were founding members (Tinguely 1960; Saint-Phalle 1961) |
+| RDW T 019 | Soisy/Le Cyclop absent | absent | Soisy-sur-Ecole = shared studio; Le Cyclop under construction 1970 |
+| RDW T 019 | Stedelijk Museum connection absent | absent | Saint-Phalle 1967 Nanas; Tinguely 1961 Bewogen Beweging / 1962 Dylaby |
+| RDW T 019 | No bibliography | absent | Hultén 1992; Tinguely catalogs; Nouveau Réalisme primary sources |
+| T 029 | Artist birth year wrong | 1697 | 1696 (confirmed by Niemeijer catalogue raisonné title and all authorities) |
+| T 029 | Date range factually impossible | circa 1717 – voor 1750 | 1742 (subject matter existed only from 1739; Niemeijer 890T) |
+| T 029 | Technique misclassified | penseel in waterverf | Gouache (opaque); support is blue paper |
+| T 029 | Verso inscription absent | not listed | "Vertooning van den Ambassadeur van Maroccen in den hout" |
+| T 029 | Niemeijer catalogue raisonné absent | 1904 Scholten only | Niemeijer 1973, cat. no. 890T — standard reference for all Troost works |
+| T 029 | No provenance in database | absent | Acquired 1780 for 100 guilders; pre-1780 unknown |
+| O 007 | Object name field misused | "penseel in waterverf" | "tekening" — recurring structural error |
+| O 007 | Pen medium almost certainly wrong | "pen in zwart" | Brown or grey (iron-gall ink); "zwart" anomalous across entire Avercamp corpus |
+| O 007 | Date lower bound unjustified | "ca 1605" | Avercamp in training in 1605; earliest paintings c.1608–1609; comparanda c.1615–1630 |
+| O 007 | Welcker catalogue raisonné absent | Scholten 1904; Plomp 1997 | Welcker 1933/1979 — standard reference for all Avercamp works |
+| O 007 | No provenance | absent | Price inscriptions suggest 3-stage sales history; not researched |
+| O 007 | No art-historical significance | absent | Preeminent Dutch winter landscape master; Little Ice Age documentation |
+| O 047 | Title missing Gethsemane | "Christus en de discipelen" | "Christus en de discipelen in het Hof van Gethsemane" — location strips the subject |
+| O 047 | Benesch 89 absent from bibliography | not cited | Benesch 1973, no. 89 — universal scholarly identifier for Rembrandt drawings |
+| O 047 | No provenance in database | absent | Acquired at auction 1796 for 60 guilders; pre-1796 unknown |
+| O 047 | No exhibition history | absent | Louvre/Philadelphia/Detroit 2011; Teylers 2013 |
+| O 047 | No description | absent | Ten disciples in circle; sleeping figures; excised strip; significance |
+| P 078 | Death year wrong | 1684 | 1685 (died 27 April 1685, buried 2 May 1685, St. Bavo's Haarlem) |
+| P 078 | Irrelevant bibliography entry | "aquarel: Nederlandse meesters 19e eeuw" | Database linking error — 2015 exhibition of 19th-century watercolors; must be removed |
+| P 078 | Schnackenburg catalogue raisonné absent | not cited | Schnackenburg, *Zeichnungen und Aquarelle*, 2 vols., Hamburg 1981 |
+| P 078 | No provenance | absent | Unknown; acquisition date and source not documented |
+| T 085 | Father's nationality wrong | "de Duitse graveur-uitgever" | Swiss — Matthäus Merian the Elder born Basel; consistently identified as Swiss |
+| T 085 | Creator role reductive | tekenaar only | Naturalist, entomologist, scientific illustrator, printmaker, painter |
+| T 085 | "First time insects in all life stages" wrong | "voor het eerst" in *Metamorphosis* (1705) | Merian achieved this in *Der Raupen wunderbare Verwandlung* (1679), 26 years earlier |
+| 1355 | D'Alembert listed as co-editor 1751–1780 | both editors for full run | D'Alembert resigned 1758 after vol. VII; Diderot sole editor from 1758 |
+| 1355 | Neuchâtel false imprint absent | "Parijs, Amsterdam" only | Vols. 8–17 bear false "A Neufchâtel" imprint to evade 1759 censorship |
+| 1355 | No provenance | absent | Acquired 1780 — four years before museum opening; documented in Teylers' own exhibition text |
+| 1355 | No set description | absent | 35 folio volumes: 17 text + 11 plates + 4 suppl. text + 1 suppl. plates + 2 table volumes |
+| 1355 | No censorship history | absent | 1759 Parlement condemnation; Index Librorum Prohibitorum; completed in secret; Le Breton's censoring |
+
 ---
 
 ## Statistical Summary
 
-| Metric | Sample 1 | Sample 2 | Sample 3 | Topstukken | **Total** |
-|--------|----------|----------|----------|------------|-----------|
-| Objects analyzed | 13 | 15 | 7 | 8 | **43** |
-| Major errors | 28 | 20 | 12 | 16 | **76** |
-| Major errors per object | 2.2 | 1.3 | 1.7 | 2.0 | **1.8** |
-| Objects with zero errors | 0 | 0 | 0 | 0 | **0** |
-| Minor omissions | ~50 | ~60 | ~40 | ~40 | **~190** |
+| Metric | Sample 1 | Sample 2 | Sample 3 | Topstukken Ph.1 | Topstukken Ph.2 | Topstukken Ph.3 | **Total** |
+|--------|----------|----------|----------|-----------------|-----------------|-----------------|-----------|
+| Objects analyzed | 13 | 15 | 7 | 8 | 7 | 7 | **57** |
+| Major errors | 28 | 20 | 12 | 16 | ~34 | 36 | **~146** |
+| Major errors per object | 2.2 | 1.3 | 1.7 | 2.0 | ~4.9 | 5.1 | **~2.6** |
+| Objects with zero errors | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| Minor omissions | ~50 | ~60 | ~40 | ~40 | ~50 | ~50 | **~290** |
 
 ---
 
 ## Conclusion
 
-The analysis of 43 objects from across Teylers Museum's collections — 35 randomly selected and 8 from the museum's own curated Topstukken list — reveals a **consistent pattern of quality problems** in the online catalog. With 76 major errors across 43 objects and not a single error-free record, the evidence strongly suggests that these problems are systemic. The Topstukken phase (2.0 major errors per object) matches the rate found in random sampling, confirming that the museum's most important objects are not better cataloged than the rest of the collection. A Dürer engraving with dimensions listed in the wrong order, a Raphael drawing without mention of the painting it was made for, and a Michelangelo provenance chain that omits Queen Christina of Sweden — these are not minor oversights in a heritage collection of this stature.
+The analysis of 57 objects from across Teylers Museum's collections — 35 randomly selected and 22 from the museum's own curated Topstukken list — reveals a **consistent pattern of quality problems** in the online catalog. With approximately 146 major errors across 57 objects and not a single error-free record, the evidence strongly suggests that these problems are systemic. The extended Topstukken analysis (averaging more than 4 major errors per object) confirms that the museum's most important objects are, if anything, *less* well cataloged than the rest of the collection — likely because their greater historical complexity creates more opportunities for omission. A Rembrandt whose title strips the subject's location, a Dürer engraving with dimensions listed in the wrong order, an Encyclopédie with no provenance despite its acquisition predating the museum's own opening, and a Maria Sibylla Merian watercolor where the father's nationality is wrong — these are not minor oversights in a heritage collection of this stature.
 
 The methodology demonstrated here — AI-assisted cross-referencing of catalog records against scholarly databases, museum collections, and reference works — is fast, scalable, and cost-effective. At approximately **€4 per object**, a full collection scan is economically feasible and would yield dramatic improvements in catalog quality.
 

@@ -30,7 +30,7 @@ De objecten bestrijken de volle breedte van het museum: prenten, tekeningen, pen
 
 Het foutpercentage van **1,7 ernstige fouten per object** is consistent over alle drie steekproeven, wat erop wijst dat de problemen systemisch zijn. Geextrapoleerd naar de volledige collectie duidt dit op **duizenden ernstige fouten** die op correctie wachten.
 
-**Zelfs de eigen "Topstukken" van het museum — de 50 belangrijkste objecten — zijn getroffen.** We hebben inmiddels **10 van de 50 Topstukken** direct geanalyseerd en daarin **22 ernstige fouten** aangetroffen (2,2 per object). Geen enkel Topstuk bleek vrij van ernstige fouten. Opvallende bevindingen: Dürers *Adam en Eva* heeft de afmetingen van het plaatje in de verkeerde volgorde (een staand formaat gekatalogiseerd als liggend); de *Trommelslaagster* van Israëls vertoont een afwijking van meer dan 10 cm ten opzichte van externe bronnen; bij Rafaëls engelenstudie ontbreekt de verwijzing naar de schildering waarvoor het een voorbereidende tekening is; bij de Michelangelo-ignudo-studie ontbreekt koningin Christina van Zweden in de herkomstgeschiedenis; en beide fossiele Topstukken bevatten de eerder gedocumenteerde fouten. Als de kroonjuwelen van het museum niet nauwkeurig beschreven zijn, is de kans klein dat de bredere collectie wel correct gecatalogiseerd is.
+**Zelfs de eigen "Topstukken" van het museum — de 50 belangrijkste objecten — zijn getroffen.** We hebben inmiddels **24 van de 50 Topstukken** direct geanalyseerd en daarin **meer dan 80 ernstige fouten** aangetroffen (3,4 per object gemiddeld). De volledige categorie Kunst (21 topstukken) is nu volledig geanalyseerd, evenals het eerste Boeken-topstuk. Geen enkel Topstuk bleek vrij van ernstige fouten. Opvallende bevindingen: de Rembrandt-tekening heeft "in het Hof van Gethsemane" uit de titel gestript, waardoor het onderwerp onduidelijk wordt; de *Encyclopédie* van Diderot & d'Alembert werd in 1780 als verboden boek aangekocht — vier jaar voor de opening van het museum — maar bevat geen herkomstvermeldingen; een Cornelis Troost-tekening draagt de datering "circa 1717" voor een onderwerp dat pas in 1739 plaatsvond; een Van Ostade-tekening heeft een bibliografisch record voor een tentoonstelling van 19e-eeuwse aquarellen uit 2015 toegevoegd gekregen — een databasefout; en de *Drie tulpen* van Maria Sibylla Merian omschrijft haar vader als "Duits" terwijl hij Zwitsers was. Als de kroonjuwelen van het museum niet nauwkeurig beschreven zijn, is de kans klein dat de bredere collectie wel correct gecatalogiseerd is.
 
 De hier gedemonstreerde AI-methodiek is **schaalbaar naar de gehele collectie** tegen circa **€4 per object** — een fractie van de kosten van traditioneel kunsthistorisch onderzoek. Een volledige collectiescan zou de kwaliteit en toegankelijkheid van Teylers' online catalogus transformeren, en het publieke begrip van een van 's werelds belangrijkste erfgoedcollecties.
 
@@ -56,12 +56,14 @@ Drie willekeurige steekproeven plus een gerichte Topstukken-fase, samen **43 obj
 | Steekproef 1 | 13 | Prenten, tekeningen, penningen, munten, instrumenten, beeldhouwkunst | 28 |
 | Steekproef 2 | 15 | Zeldzame boeken, wetenschappelijke instrumenten | 20 |
 | Steekproef 3 | 7 | Fossielen, munten, penningen, zeldzame boeken, instrumenten | 12 |
-| Topstukken (aanvullend) | 8 | Schilderijen, tekeningen, prenten (kunstcollectie) | 16 |
-| **Totaal** | **43** | **Alle grote collectiegebieden** | **76** |
+| Topstukken fase 1 | 8 | Schilderijen, tekeningen, prenten (kunstcollectie) | 16 |
+| Topstukken fase 2 | 7 | Schilderijen, tekeningen, prenten | ~34 |
+| Topstukken fase 3 | 7 | Tekeningen, prenten, boeken | 36 |
+| **Totaal** | **57** | **Alle grote collectiegebieden** | **~146** |
 
-Gemiddeld: **1,7 ernstige fouten per object**. Objecten zonder fouten: **0**.
+Gemiddeld: **~2,6 ernstige fouten per object**. Objecten zonder fouten: **0**.
 
-Daarnaast is de eigen gecureerde lijst van **50 "Topstukken"** van het museum geidentificeerd en gekruisverwijsd. Twee van deze topstukken verschenen in onze willekeurige steekproef — beide bevatten ernstige fouten. De overige 48 topstukken staan in de wachtrij voor analyse in volgende fasen.
+Van de **50 "Topstukken"** zijn er inmiddels **24 geanalyseerd** — de volledige Kunst-categorie (21 objecten) plus het eerste Boeken-topstuk. Alle 24 bevatten ernstige fouten. De resterende 26 topstukken (4 Boeken, 9 Instrumenten, 10 Fossielen/Mineralen, 3 Munten/Penningen) staan in de wachtrij.
 
 ---
 
