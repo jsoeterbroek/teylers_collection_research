@@ -35,29 +35,29 @@ Mark the sources already retrieved and researched (if there is an output file al
 ## Instrumenten (9)
 - FK 0014 - https://teylers.adlibhosting.com/ais6/details/museum/4000017
 - [x] FK 0181 - https://teylers.adlibhosting.com/ais6/details/museum/4000208
-- FK 0219 - https://teylers.adlibhosting.com/ais6/details/museum/4000250
-- FK 0275 - https://teylers.adlibhosting.com/ais6/details/museum/4000318
-- FK 0310 - https://teylers.adlibhosting.com/ais6/details/museum/4000361
-- FK 0323 - https://teylers.adlibhosting.com/ais6/details/museum/4000376
-- FK 0508 - https://teylers.adlibhosting.com/ais6/details/museum/4000602
-- FK 0624-01 - https://teylers.adlibhosting.com/ais6/details/museum/4000713
-- FK 1790-01 - https://teylers.adlibhosting.com/ais6/details/museum/4001478
+- [x] FK 0219 - https://teylers.adlibhosting.com/ais6/details/museum/4000250
+- [x] FK 0275 - https://teylers.adlibhosting.com/ais6/details/museum/4000318
+- [x] FK 0310 - https://teylers.adlibhosting.com/ais6/details/museum/4000361
+- [x] FK 0323 - https://teylers.adlibhosting.com/ais6/details/museum/4000376
+- [x] FK 0508 - https://teylers.adlibhosting.com/ais6/details/museum/4000602
+- [x] FK 0624-01 - https://teylers.adlibhosting.com/ais6/details/museum/4000713
+- [x] FK 1790-01 - https://teylers.adlibhosting.com/ais6/details/museum/4001478
 
 ## Fossielen en Mineralen (12)
 - [x] F 06928 - https://teylers.adlibhosting.com/ais6/Details/museum/7006968
-- F 07424-01 - https://teylers.adlibhosting.com/ais6/details/museum/7007461
+- [x] F 07424-01 - https://teylers.adlibhosting.com/ais6/details/museum/7007461
 - [x] F 08432 - https://teylers.adlibhosting.com/ais6/Details/museum/7008516
-- F 16266 - https://teylers.adlibhosting.com/ais6/details/museum/7016989
-- F 16269 - https://teylers.adlibhosting.com/ais6/details/museum/7016992
-- F 16390 - https://teylers.adlibhosting.com/ais6/details/museum/7017115
-- M 00605 - https://teylers.adlibhosting.com/ais6/details/museum/7028882
-- M 01518 - https://teylers.adlibhosting.com/ais6/details/museum/7029903
-- M 01524 - https://teylers.adlibhosting.com/ais6/details/museum/7029909
-- M 03353 - https://teylers.adlibhosting.com/ais6/details/museum/7031667
-- M 11800 - https://teylers.adlibhosting.com/ais6/details/museum/7040544
-- M 12369 - https://teylers.adlibhosting.com/ais6/details/museum/7040126
+- [x] F 16266 - https://teylers.adlibhosting.com/ais6/details/museum/7016989
+- [x] F 16269 - https://teylers.adlibhosting.com/ais6/details/museum/7016992
+- [x] F 16390 - https://teylers.adlibhosting.com/ais6/details/museum/7017115
+- [x] M 00605 - https://teylers.adlibhosting.com/ais6/details/museum/7028882
+- [x] M 01518 - https://teylers.adlibhosting.com/ais6/details/museum/7029903
+- [x] M 01524 - https://teylers.adlibhosting.com/ais6/details/museum/7029909
+- [x] M 03353 - https://teylers.adlibhosting.com/ais6/details/museum/7031667
+- [x] M 11800 - https://teylers.adlibhosting.com/ais6/details/museum/7040544
+- [x] M 12369 - https://teylers.adlibhosting.com/ais6/details/museum/7040126
 
 ## Munten en Penningen (3)
-- TMNK 00741 - https://teylers.adlibhosting.com/ais6/details/museum/7041632
-- TMNK 01297 - https://teylers.adlibhosting.com/ais6/details/museum/7041630
-- TMNK 02269 - https://teylers.adlibhosting.com/ais6/details/museum/7041633
+- [x] TMNK 00741 - https://teylers.adlibhosting.com/ais6/details/museum/7041632
+- [x] TMNK 01297 - https://teylers.adlibhosting.com/ais6/details/museum/7041630
+- [x] TMNK 02269 - https://teylers.adlibhosting.com/ais6/details/museum/7041633
