@@ -58,17 +58,12 @@ All detailed analysis reports are available in the public GitHub repository:
 
 ## Scope
 
-Three random samples plus targeted Topstukken phases, totaling **84 objects analyzed**:
+Random collection samples plus targeted Topstukken, totaling **84 objects analyzed**:
 
 | Phase | Objects | Collection areas | Major errors |
 |-------|---------|-----------------|--------------|
-| Sample 1 | 13 | Prints, drawings, medals, coins, instruments, sculpture | 28 |
-| Sample 2 | 15 | Rare books, scientific instruments | 20 |
-| Sample 3 | 7 | Fossils, coins, medals, rare books, instruments | 12 |
-| Topstukken — Art Phase 1 | 8 | Paintings, drawings, prints (art collection) | 16 |
-| Topstukken — Art Phase 2 | 7 | Paintings, drawings, prints | ~34 |
-| Topstukken — Art Phase 3 | 7 | Drawings, prints, books | 36 |
-| Topstukken — Art Phase 4 (Sample 3 additions) | 5 | Drawings, paintings | ~26 |
+| Sample | 35 | Prints, drawings, medals, coins, instruments, sculptures, fossils, books | 60 |
+| Topstukken — Art | 27 | Paintings, drawings, prints (art collection) | ~112 |
 | Topstukken — Books | 4 | Rare books | ~13 |
 | Topstukken — Instruments | 8 (of 9; FK 0014 pending) | Scientific instruments | ~45 |
 | Topstukken — Fossils & Minerals | 10 | Fossils, minerals, geological specimens | ~38 |
