@@ -71,11 +71,6 @@ description: # document description, included in ODT, docx and pptx metadata. So
 subject: # document subject, included in ODT, PDF, docx, EPUB, and pptx metadata
 ---
 
-
-**Repository:** <https://github.com/jsoeterbroek/teylers_collection_research>  
-
----
-
 ## Management Summary
 
 An AI-assisted analysis of **84 objects** from Teylers Museum's online catalog (<https://teylers.adlibhosting.com>) has identified **approximately 279 major errors** and over **400 minor omissions**. Not a single object was found to be free of errors or significant omissions.
@@ -380,8 +375,106 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 
 ---
 
+## Methodology
+
+Each object was analyzed through the following process:
+
+1. **Catalog retrieval**: The Teylers Adlib/Axiell catalog page was fetched and all metadata fields extracted
+2. **Deep research**: An AI research agent performed systematic cross-referencing with:
+   - Other museum databases (Rijksmuseum, British Museum, Museo Galileo, Harvard, Museum Boerhaave, Royal Museums Greenwich, Smithsonian, V&A)
+   - Academic publications and reference works
+   - Biographical dictionaries and Wikipedia/Wikidata
+   - Specialist numismatic, art-historical, and scientific instrument databases
+   - Mineralogical databases (Mindat, IMA, GBIF)
+   - Digitized primary sources (e-rara, BHL, EEBO, HathiTrust, Gallica)
+3. **Analysis report**: A detailed markdown report was written per object with all findings
+4. **Error classification**: Errors were classified as Major (factually wrong, significantly misleading, or essential information absent) or Minor (missing context, untranslated inscriptions, uncited references)
+
+The complete process — from catalog retrieval to final reporting — was conducted by a single researcher (Joost Soeterbroek) assisted by the Claude Opus 4.6 AI model (Anthropic). Analysis time per object ranged from 10 to 45 minutes, averaging approximately 20 minutes per object.
+
+---
+
+## What a Full Collection Scan Would Deliver
+
+Based on the results of this pilot study, a systematic scan of Teylers' complete online catalog would:
+
+- **Identify an estimated 3,000+ major errors** in the collection (based on the ratio of ~3.3 errors per object)
+- **Prioritize corrections** by severity and public impact (Topstukken first, then frequently accessed objects)
+- **Generate enriched descriptions** for objects currently lacking any description
+- **Map cross-references** between related objects, making hidden stories and connections visible
+- **Produce a comprehensive correction report** directly importable into the catalog system
+- **Cost approximately €4 per object** — orders of magnitude less than traditional art-historical research
+- **Be completed in weeks, not years** — the AI methodology scales linearly
+
+The pilot has already demonstrated the methodology on 84 objects across all major collection areas. The infrastructure, prompts, and quality standards are proven. Scaling to the full collection is a matter of execution, not experiment.
+
+---
+
+## AI Compute Resources
+
+| Resource | Estimate |
+|----------|---------|
+| AI model | Claude Opus 4.6 (Anthropic) |
+| Total tokens processed | ~12,000,000 |
+| Research agent calls | ~180 |
+| Web fetches | ~250 |
+| Estimated compute cost | ~€350–€420 |
+| Total analysis time | ~8 sessions, ~28 hours |
+
+The cost of analyzing 84 objects with AI assistance (~€385) compares favorably with equivalent manual art-historical research, which would require days of specialist time per object. **Scaled to a full collection scan, this methodology could assess thousands of objects at a fraction of traditional costs.**
+
+## Statistical Summary
+
+| Metric | Sample 1 | Sample 2 | Sample 3 | S3 Additions | Top. Art | Top. Books | Top. Instruments | Top. Fossils/Min. | Top. Coins/Medals | **Total** |
+|--------|----------|----------|----------|--------------|----------|-----------|-----------------|------------------|------------------|-----------|
+| Objects analyzed | 13 | 15 | 7 | 5 | 21 | 4 | 8 | 12 | 3 | **84** |
+| Major errors | 28 | 20 | 12 | ~26 | ~86 | ~13 | ~45 | ~38 | 9 | **~279** |
+| Major errors per object | 2.2 | 1.3 | 1.7 | ~5.2 | ~4.1 | ~3.3 | ~5.6 | ~3.2 | 3.0 | **~3.3** |
+| Objects with zero errors | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| Minor omissions | ~50 | ~60 | ~40 | ~25 | ~105 | ~20 | ~45 | ~50 | ~15 | **~410** |
+
+---
+
+## Recommendations
+
+1. **Commission a systematic full collection scan** using AI-assisted methodology to identify errors and omissions across the entire online catalog
+2. **Begin with the 50 Topstukken** — the museum's own crown jewels deserve error-free catalog records; only FK 0014 remains to be analyzed in the current study
+3. **Correct the immediate critical errors identified** in this report — particularly the impossible attributions (TMNK 02269 maker died 21 years prior; FK 0323 Newton listed as 1790 co-creator), misclassifications (F 16390 Lügensteine as FossilSpecimen), transposed descriptions (TMNK 01297 obverse/reverse), and the wrong images on KT 1989 096
+4. **Add description fields** to all objects lacking descriptions, particularly scientific instruments, minerals, and medals
+5. **Implement cross-references** between related objects (suites, series, provenance groups, thematic ensembles)
+6. **Contextualize all named persons** with brief biographical notes and dates
+7. **Translate all inscriptions** into Dutch and English
+8. **Update mineralogical records** to IMA-approved mineral names, chemical formulae, and crystal system data
+9. **Resolve the "production date" problem** across the mineral and fossil collections — distinguish geological age from collection date from acquisition date
+10. **Cite standard reference catalogs** (Turner & Levere, Van Loon, Hollstein, Betts, Mindat, GBIF, etc.) consistently
+11. **Link to external digital surrogates** where available (EEBO, BHL, Rijksmuseum, etc.)
+12. **Audit the digital asset management system** for cross-linked images and broken catalog URLs
+
+---
+
+## Conclusion
+
+The analysis of 84 objects — including 49 of the museum's 50 designated Topstukken — from Teylers Museum's collections reveals a **consistent pattern of quality problems** in the online catalog. With approximately 279 major errors across 84 objects and not a single error-free record, the evidence points strongly to systemic problems.
+
+The findings range from the mundane (missing dates, bare names without identification) to the extraordinary: a medal attributed to a maker dead for 21 years; a portrait drawing that links to photographs of entirely different objects; the world's most expensive book given the wrong volume count; forged fossil fakes classified as genuine fossil specimens; a cave bear skeleton assembled from multiple individuals without that fact being disclosed; and a telescope attributed to Isaac Newton despite having been built 63 years after his death.
+
+The methodology demonstrated here — AI-assisted cross-referencing of catalog records with scholarly databases, museum collections, and reference works — is fast, scalable, and cost-effective. At approximately **€4 per object**, a complete collection scan is economically feasible and would deliver dramatic improvements in catalog quality.
+
+Teylers Museum manages one of the world's most important heritage collections. The online catalog should reflect that status. The findings in this report are offered as a constructive contribution to that goal — and as a demonstration that the tools to achieve it are available today.
+
+---
+
+*This report was produced by Joost Soeterbroek using AI research (Claude Opus 4.6, Anthropic). All findings are based on publicly available sources and cross-references with other museum collections. Individual analysis reports for all 84 objects are available at <https://github.com/jsoeterbroek/teylers_collection_research>.*
+
+*Contact: Joost Soeterbroek — <joost.soeterbroek@gmail.com> — +31 6 34 83 38 45*
+
+---
+
+
 ## Complete Error Register
 
+Below a table of the complete error register. For an more extensive analysis per individual object, see:
+https://github.com/jsoeterbroek/teylers_collection_research/tree/main/analysis
 
 | Object | Error | Teylers says | Should be |
 |--------|-------|-------------|-----------|
@@ -651,99 +744,3 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 | T 085 | **Creator role understated** | tekenaar (draughtsman only) | Naturalist, entomologist, scientific illustrator, printmaker, painter |
 | T 085 | **"First time insects in all life stages" claim wrong** | Implies *Metamorphosis* (1705) was first | *Der Raupen wunderbare Verwandlung* (1679) already did this; *Metamorphosis* was first for tropical/Surinamese species |
 
----
-
-## Methodology
-
-Each object was analyzed through the following process:
-
-1. **Catalog retrieval**: The Teylers Adlib/Axiell catalog page was fetched and all metadata fields extracted
-2. **Deep research**: An AI research agent performed systematic cross-referencing with:
-   - Other museum databases (Rijksmuseum, British Museum, Museo Galileo, Harvard, Museum Boerhaave, Royal Museums Greenwich, Smithsonian, V&A)
-   - Academic publications and reference works
-   - Biographical dictionaries and Wikipedia/Wikidata
-   - Specialist numismatic, art-historical, and scientific instrument databases
-   - Mineralogical databases (Mindat, IMA, GBIF)
-   - Digitized primary sources (e-rara, BHL, EEBO, HathiTrust, Gallica)
-3. **Analysis report**: A detailed markdown report was written per object with all findings
-4. **Error classification**: Errors were classified as Major (factually wrong, significantly misleading, or essential information absent) or Minor (missing context, untranslated inscriptions, uncited references)
-
-The complete process — from catalog retrieval to final reporting — was conducted by a single researcher (Joost Soeterbroek) assisted by the Claude Opus 4.6 AI model (Anthropic). Analysis time per object ranged from 10 to 45 minutes, averaging approximately 20 minutes per object.
-
----
-
-## What a Full Collection Scan Would Deliver
-
-Based on the results of this pilot study, a systematic scan of Teylers' complete online catalog would:
-
-- **Identify an estimated 3,000+ major errors** in the collection (based on the ratio of ~3.3 errors per object)
-- **Prioritize corrections** by severity and public impact (Topstukken first, then frequently accessed objects)
-- **Generate enriched descriptions** for objects currently lacking any description
-- **Map cross-references** between related objects, making hidden stories and connections visible
-- **Produce a comprehensive correction report** directly importable into the catalog system
-- **Cost approximately €4 per object** — orders of magnitude less than traditional art-historical research
-- **Be completed in weeks, not years** — the AI methodology scales linearly
-
-The pilot has already demonstrated the methodology on 84 objects across all major collection areas. The infrastructure, prompts, and quality standards are proven. Scaling to the full collection is a matter of execution, not experiment.
-
----
-
-## AI Compute Resources
-
-| Resource | Estimate |
-|----------|---------|
-| AI model | Claude Opus 4.6 (Anthropic) |
-| Total tokens processed | ~12,000,000 |
-| Research agent calls | ~180 |
-| Web fetches | ~250 |
-| Estimated compute cost | ~€350–€420 |
-| Total analysis time | ~8 sessions, ~28 hours |
-
-The cost of analyzing 84 objects with AI assistance (~€385) compares favorably with equivalent manual art-historical research, which would require days of specialist time per object. **Scaled to a full collection scan, this methodology could assess thousands of objects at a fraction of traditional costs.**
-
----
-
-## Recommendations
-
-1. **Commission a systematic full collection scan** using AI-assisted methodology to identify errors and omissions across the entire online catalog
-2. **Begin with the 50 Topstukken** — the museum's own crown jewels deserve error-free catalog records; only FK 0014 remains to be analyzed in the current study
-3. **Correct the immediate critical errors identified** in this report — particularly the impossible attributions (TMNK 02269 maker died 21 years prior; FK 0323 Newton listed as 1790 co-creator), misclassifications (F 16390 Lügensteine as FossilSpecimen), transposed descriptions (TMNK 01297 obverse/reverse), and the wrong images on KT 1989 096
-4. **Add description fields** to all objects lacking descriptions, particularly scientific instruments, minerals, and medals
-5. **Implement cross-references** between related objects (suites, series, provenance groups, thematic ensembles)
-6. **Contextualize all named persons** with brief biographical notes and dates
-7. **Translate all inscriptions** into Dutch and English
-8. **Update mineralogical records** to IMA-approved mineral names, chemical formulae, and crystal system data
-9. **Resolve the "production date" problem** across the mineral and fossil collections — distinguish geological age from collection date from acquisition date
-10. **Cite standard reference catalogs** (Turner & Levere, Van Loon, Hollstein, Betts, Mindat, GBIF, etc.) consistently
-11. **Link to external digital surrogates** where available (EEBO, BHL, Rijksmuseum, etc.)
-12. **Audit the digital asset management system** for cross-linked images and broken catalog URLs
-
----
-
-## Statistical Summary
-
-| Metric | Sample 1 | Sample 2 | Sample 3 | S3 Additions | Top. Art | Top. Books | Top. Instruments | Top. Fossils/Min. | Top. Coins/Medals | **Total** |
-|--------|----------|----------|----------|--------------|----------|-----------|-----------------|------------------|------------------|-----------|
-| Objects analyzed | 13 | 15 | 7 | 5 | 21 | 4 | 8 | 12 | 3 | **84** |
-| Major errors | 28 | 20 | 12 | ~26 | ~86 | ~13 | ~45 | ~38 | 9 | **~279** |
-| Major errors per object | 2.2 | 1.3 | 1.7 | ~5.2 | ~4.1 | ~3.3 | ~5.6 | ~3.2 | 3.0 | **~3.3** |
-| Objects with zero errors | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| Minor omissions | ~50 | ~60 | ~40 | ~25 | ~105 | ~20 | ~45 | ~50 | ~15 | **~410** |
-
----
-
-## Conclusion
-
-The analysis of 84 objects — including 49 of the museum's 50 designated Topstukken — from Teylers Museum's collections reveals a **consistent pattern of quality problems** in the online catalog. With approximately 279 major errors across 84 objects and not a single error-free record, the evidence points strongly to systemic problems.
-
-The findings range from the mundane (missing dates, bare names without identification) to the extraordinary: a medal attributed to a maker dead for 21 years; a portrait drawing that links to photographs of entirely different objects; the world's most expensive book given the wrong volume count; forged fossil fakes classified as genuine fossil specimens; a cave bear skeleton assembled from multiple individuals without that fact being disclosed; and a telescope attributed to Isaac Newton despite having been built 63 years after his death.
-
-The methodology demonstrated here — AI-assisted cross-referencing of catalog records with scholarly databases, museum collections, and reference works — is fast, scalable, and cost-effective. At approximately **€4 per object**, a complete collection scan is economically feasible and would deliver dramatic improvements in catalog quality.
-
-Teylers Museum manages one of the world's most important heritage collections. The online catalog should reflect that status. The findings in this report are offered as a constructive contribution to that goal — and as a demonstration that the tools to achieve it are available today.
-
----
-
-*This report was produced by Duinroos Innovatie using AI research (Claude Opus 4.6, Anthropic). All findings are based on publicly available sources and cross-references with other museum collections. Individual analysis reports for all 84 objects are available at <https://github.com/jsoeterbroek/teylers_collection_research>.*
-
-*Contact: Joost Soeterbroek — <joost.soeterbroek@gmail.com> — +31 6 34 83 38 45*
