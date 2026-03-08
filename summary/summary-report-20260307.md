@@ -1,15 +1,77 @@
-<p align="center">
-  <img src="teylers-audit-thumbnail.png" />
-</p>
+---
+abstract: 'An AI-assisted analysis of 84 objects from Teylers Museums online catalog yields surprising results'
+author:
+  - '[Joost Soeterbroek](joost.soeterbroek@gmail.com)'
+  - 'assisted by AI research agent (Claude Opus 4.6, Anthropic)'
+date: 7 March 2026
+keywords: # list of keywords to be included in HTML, PDF, ODT, pptx, docx and AsciiDoc metadata; repeat as for author, ab
+lang: en-US.UTF-8
+subtitle: 'An AI-assisted analysis of 84 objects from Teylers Museums online catalog yields surprising results'
+title: 'Teylers Museum Online Catalog: Systematic Quality Analysis'
+toc: false
+version: 20260307  
 
+# LaTeX
+abstract-title: 'Abstract'
+beamerarticle: # produce an article from Beamer slides
+classoption: # option for document class, e.g. oneside (a list).
+documentclass: scrartcl # document class: usually one of the standard classes, article, book, and report; the KOMA-Script
+geometry: # option for geometry package, e.g. margin=1in; repeat for multiple options:
+header-includes: # contents specified by -H/--include-in-header (may have multiple values)
+  - |
+    ```{=latex}
+    \raggedbottom % or \flushbottom
+    ```
+  - |
+    ```{=latex}
+    % keep figures where there are in the text
+    \usepackage{float}
+    \floatplacement{figure}{H}
+    ```
+  - |
+    ```{=latex}
+    % add custom hyphentation rules
+    \hyphenation
+    {%
+      Hyphenate-me-like-this
+      Dontyoueverhyphenateme
+    }%
+    ```
+hyperrefoptions: # option for hyperref package, e.g. linktoc=all; repeat for multiple options:
+include-before: # contents specified by -B/--include-before-body (may have multiple values)
+include-after: # contents specified by -A/--include-after-body (may have multiple values)
+indent: # if true, pandoc will use document class settings for indentation (the default LaTeX template otherwise removes
+linestretch: # adjusts line spacing using the setspace package, e.g. 1.25, 1.5
+lof: false
+lot: false
+pagestyle: # control \pagestyle{}: the default article class supports plain (default), empty (no running heads or page nu
+papersize: a4 # paper size, e.g. letter, a4
+secnumdepth: # numbering depth for sections (with --number-sections option or numbersections variable)
+thanks: 'Many thanks for the valuable comments.'
+toc-depth: 2
+toc-title: 'Contents'
+
+# Fonts
+fontenc: # allows font encoding to be specified through fontenc package (with pdflatex); default is T1 (see LaTeX font en
+fontfamily: # font package for use with pdflatex: TeX Live includes many options, documented in the LaTeX Font Catalogue.
+fontfamilyoptions: # options for package used as fontfamily; repeat for multiple options.
+fontsize: # font size for body text. The standard classes allow 10pt, 11pt, and 12pt. To use another size, set documentcl
+mainfont:
+sansfont:
+monofont:
+mathfont:
+mainfontoptions:
+sansfontoptions:
+monofontoptions:
+mathfontoptions:
+
+# Word
+category: # document category, included in docx and pptx metadata
+description: # document description, included in ODT, docx and pptx metadata. Some applications show this as Comments met
+subject: # document subject, included in ODT, PDF, docx, EPUB, and pptx metadata
 ---
 
-# Teylers Museum Online Catalog: Systematic Quality Analysis
 
-**Version:** 20260307  
-**Date:** 7 March 2026  
-**Researcher:** Joost Soeterbroek, assisted by AI research agent (Claude Opus 4.6, Anthropic)  
-**Contact:** Joost Soeterbroek — <joost.soeterbroek@gmail.com> — +31 6 34 83 38 45  
 **Repository:** <https://github.com/jsoeterbroek/teylers_collection_research>  
 
 ---
