@@ -113,6 +113,24 @@ All detailed analysis reports are available in the public GitHub repository:
 
 ---
 
+## Methodology
+
+Each object was analyzed through the following process:
+
+1. **Catalog retrieval**: The Teylers Adlib/Axiell catalog page was fetched and all metadata fields extracted
+2. **Deep research**: An AI research agent performed systematic cross-referencing with:
+   - Other museum databases (Rijksmuseum, British Museum, Museo Galileo, Harvard, Museum Boerhaave, Royal Museums Greenwich, Smithsonian, V&A)
+   - Academic publications and reference works
+   - Biographical dictionaries and Wikipedia/Wikidata
+   - Specialist numismatic, art-historical, and scientific instrument databases
+   - Mineralogical databases (Mindat, IMA, GBIF)
+   - Digitized primary sources (e-rara, BHL, EEBO, HathiTrust, Gallica)
+3. **Analysis report**: A detailed markdown report was written per object with all findings
+4. **Error classification**: Errors were classified as Major (factually wrong, significantly misleading, or essential information absent) or Minor (missing context, untranslated inscriptions, uncited references)
+
+The complete process — from catalog retrieval to final reporting — was conducted by a single researcher (Joost Soeterbroek) assisted by the Claude Opus 4.6 AI model (Anthropic). Analysis time per object ranged from 10 to 45 minutes, averaging approximately 20 minutes per object.
+
+---
 
 ## Scope
 
@@ -373,24 +391,6 @@ At least one record (KT 1989 096) displays photographs of entirely wrong objects
 | Sculpture | 2 | 4 | 2.0 |
 | **Total** | **84** | **~279** | **~3.3** |
 
----
-
-## Methodology
-
-Each object was analyzed through the following process:
-
-1. **Catalog retrieval**: The Teylers Adlib/Axiell catalog page was fetched and all metadata fields extracted
-2. **Deep research**: An AI research agent performed systematic cross-referencing with:
-   - Other museum databases (Rijksmuseum, British Museum, Museo Galileo, Harvard, Museum Boerhaave, Royal Museums Greenwich, Smithsonian, V&A)
-   - Academic publications and reference works
-   - Biographical dictionaries and Wikipedia/Wikidata
-   - Specialist numismatic, art-historical, and scientific instrument databases
-   - Mineralogical databases (Mindat, IMA, GBIF)
-   - Digitized primary sources (e-rara, BHL, EEBO, HathiTrust, Gallica)
-3. **Analysis report**: A detailed markdown report was written per object with all findings
-4. **Error classification**: Errors were classified as Major (factually wrong, significantly misleading, or essential information absent) or Minor (missing context, untranslated inscriptions, uncited references)
-
-The complete process — from catalog retrieval to final reporting — was conducted by a single researcher (Joost Soeterbroek) assisted by the Claude Opus 4.6 AI model (Anthropic). Analysis time per object ranged from 10 to 45 minutes, averaging approximately 20 minutes per object.
 
 ---
 
