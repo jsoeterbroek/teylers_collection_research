@@ -9,5 +9,7 @@ Deep research with AI model claude-opus-4-6 on some 50 random objects from Teyle
 
 Goal is to show that AI could be a helpfull tool to augment and re-evaluate some of the knowledge of the object in the collection.
 
-Summary reports are available in Markdown and PDF in the summary folder/.
-All individual reports are available in the analysis/ folder.
+Go directly to [latest summary report](https://github.com/jsoeterbroek/teylers_collection_research/blob/main/summary/summary-report-20260307.pdf).
+
+All summary reports are available in Markdown and PDF in the summary folder/.
+All detailed analysis on individual objects are available in the analysis/ folder.
